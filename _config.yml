@@ -1,0 +1,30 @@
+# Site settings
+title: Neurohackweek
+email: arokem@uw.edu
+url: https://neurohackweek.github.io
+description: "A summer school in neuroimaging and data science at the University of Washington eScience Institute"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#444444'
+  links: '#e8e3d3'
+
+# Footer settings
+footer: Ariel, Rokem UW eScience Institute
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/neurohackweek
+  #- title: facebook
+  #  url:
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/neurohackweek
+
+# Build settings
+markdown: kramdown
+permalink: pretty
