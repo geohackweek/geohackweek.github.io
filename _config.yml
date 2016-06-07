@@ -1,8 +1,8 @@
 # Site settings
-title: Neurohackweek
-email: arokem@uw.edu
-url: https://neurohackweek.github.io
-description: "A summer school in neuroimaging and data science at the University of Washington eScience Institute"
+title: Geohackweek
+email: arendta@uw.edu
+url: https://geohackweek.github.io
+description: "A summer school in geospatial mapping and data science at the University of Washington eScience Institute"
 encoding: utf-8
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,12 +10,12 @@ color:
   links: '#e8e3d3'
 
 # Footer settings
-footer: Ariel, Rokem UW eScience Institute
+footer: Arendt, Anthony UW eScience Institute
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/neurohackweek
+    url: https://twitter.com/aaarendt
   #- title: facebook
   #  url:
   #- title: stack-overflow
@@ -23,7 +23,7 @@ social:
   #- title: bitbucket
   #  url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/neurohackweek
+    url: https://github.com/geohackweek
 
 # Build settings
 markdown: kramdown
