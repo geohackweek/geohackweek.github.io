@@ -2,3 +2,5 @@
 *.suo
 *.config
 
+_site/geoSolutionsTables.xlsx
+img/anthony.jpg
