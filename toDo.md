@@ -1,4 +1,4 @@
 ### List of tasks for organizing committee
 
-[ ] test
-[x] test2  
+- [ ] test
+- [x] test2  
