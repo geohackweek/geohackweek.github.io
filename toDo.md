@@ -4,15 +4,15 @@ AA = Anthony; RF = Rob; CK = Catherine; RL = Randy
 
 #### Space
 
-- [_] book active learning classroom (RL)
+- [ ] book active learning classroom (RL)
 
 #### Instructors 
 
 Who want to help with this?
 
-- [_] prepare description of what we require from instructors (wiki)
-- [_] finalize invite list
-- [_] send out invite list and track who will attend and fit into schedule
+- [ ] prepare description of what we require from instructors (wiki)
+- [ ] finalize invite list
+- [ ] send out invite list and track who will attend and fit into schedule
 
 #### Attendees
 
@@ -20,25 +20,25 @@ Who want to help with this?
 
 #### Travel/logistics
 
-- [_] travel logistics page (wiki) (?)
+- [ ] travel logistics page (wiki) (?)
 
 #### Budget
 
-- [_] prepare budget; consult with other hackathons (AA)
+- [ ] prepare budget; consult with other hackathons (AA)
 - [x] set up [eventbrite page](https://www.eventbrite.com/e/geohackweek-2016-tickets-26664692814)
-- [_] how to link eventbrite to UW budget account? (AA) 
+- [ ] how to link eventbrite to UW budget account? (AA) 
 
 #### Teaching material
 
-- [_] prepare tutorials (all)
-- [_] prepare sample data (all)
-- [_] coordinate Google Earth Engine API development (CK)
+- [ ] prepare tutorials (all)
+- [ ] prepare sample data (all)
+- [ ] coordinate Google Earth Engine API development (CK)
  
 #### Misc.
 
 - [x] consult with Ariel for general advice and attend some of neurohack (AA)
-- [_] create 'how to hack' page (?)
-- [_] 
+- [ ] create 'how to hack' page (?)
+- [ ] 
 
 
  
