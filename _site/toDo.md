@@ -2,7 +2,7 @@
 
 AA = Anthony; RF = Rob; CK = Catherine; RL = Randy
 
-#### Space - change
+#### Space 
 
 - [ ] [book](http://www.lib.washington.edu/ougl/learning-spaces/active-learning-classrooms) active learning classroom (RL)
 
