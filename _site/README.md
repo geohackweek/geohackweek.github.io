@@ -1,13 +1,8 @@
-Grayscale Jekyll theme
-=========================
+### Tutorial and organizational material for geohackweek 2016
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+View the geohackweek website [here](https://geohackweek.github.io)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+#### For the organizers:
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+* [to do list](toDo.md)
+* [wiki page](https://github.com/geohackweek/geohackweek.github.io/wiki)
