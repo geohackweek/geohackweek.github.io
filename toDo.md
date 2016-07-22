@@ -5,6 +5,9 @@ AA = Anthony; RF = Rob; CK = Catherine; RL = Randy
 #### Space 
 
 - [ ] [book](http://www.lib.washington.edu/ougl/learning-spaces/active-learning-classrooms) active learning classroom (RL)
+- [ ] other options include 5th floor Phys/Astron, [health sciences rooms](https://depts.washington.edu/hsasf/instructional-support/hsrr/)
+ 
+
 
 #### Instructors 
 
