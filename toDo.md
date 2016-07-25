@@ -19,7 +19,8 @@ Who want to help with this?
 
 #### Attendees
 
-- [ ] generate participant application form (RF?) 
+- [ ] generate participant application form (RF! AA dependency) 
+- [ ] invite someonfrom Vipin Kumar's group (RF)
 
 #### Travel/logistics
 
@@ -36,6 +37,10 @@ Who want to help with this?
 - [ ] prepare tutorials (all)
 - [ ] prepare sample data (all)
 - [ ] coordinate Google Earth Engine API development (CK)
+- [ ] set up and solve the Baboon problem (RF)
+- [ ] install and test as student proxy the GEE Python API stuff (RF, CK dependency sorta)
+- [ ] coordinate a dataset with W G-M (RF)
+- [ ] integrate the Minnesota (UMN) use of GEE: Dams and meandering stream geomorphology (RF)
  
 #### Misc.
 
