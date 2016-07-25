@@ -21,6 +21,7 @@ Who want to help with this?
 
 - [ ] generate participant application form (RF! AA dependency) 
 - [ ] invite someonfrom Vipin Kumar's group (RF)
+- [ ] Recruit Will G-M for hard labor (RF)
 
 #### Travel/logistics
 
@@ -37,7 +38,6 @@ Who want to help with this?
 - [ ] prepare tutorials (all)
 - [ ] prepare sample data (all)
 - [ ] coordinate Google Earth Engine API development (CK)
-- [ ] set up and solve the Baboon problem (RF)
 - [ ] install and test as student proxy the GEE Python API stuff (RF, CK dependency sorta)
 - [ ] coordinate a dataset with W G-M (RF)
 - [ ] integrate the Minnesota (UMN) use of GEE: Dams and meandering stream geomorphology (RF)
@@ -49,5 +49,7 @@ Who want to help with this?
 - [ ] reach out to data librarian : Rob suggest Jenn at Suzallo
 - [ ] create 'how to hack' page (?)
 
+### Confirm Dataset Ready To Go
 
+- [ ] Baboon problem (RF)
  
