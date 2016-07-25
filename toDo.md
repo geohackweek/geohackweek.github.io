@@ -41,7 +41,7 @@ Who want to help with this?
 
 - [x] consult with Ariel for general advice and attend some of neurohack (AA)
 - [ ] consult with Brittany/Anissa for feedback on hackathon planning/implementation? See [Brittany's post](http://astrohackweek.org/blog/ethnographic-notes.html)
-- [ ] reach out to data librarian 
+- [ ] reach out to data librarian : Rob suggest Jenn at Suzallo
 - [ ] create 'how to hack' page (?)
 
 
