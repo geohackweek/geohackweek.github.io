@@ -21,6 +21,9 @@ Who want to help with this?
 
 - [ ] generate participant application form (RF?) 
 - [ ] generate form for code of conduct page for anonymous complaints following [this example from neurohackweek](https://neurohackweek.wufoo.com/forms/neurohackweek-code-of-conduct-violation/)_
+- [ ] generate participant application form (RF! AA dependency) 
+- [ ] invite someonfrom Vipin Kumar's group (RF)
+- [ ] Recruit Will G-M for hard labor (RF)
 
 #### Travel/logistics
 
@@ -37,13 +40,18 @@ Who want to help with this?
 - [ ] prepare tutorials (all)
 - [ ] prepare sample data (all)
 - [ ] coordinate Google Earth Engine API development (CK)
+- [ ] install and test as student proxy the GEE Python API stuff (RF, CK dependency sorta)
+- [ ] coordinate a dataset with W G-M (RF)
+- [ ] integrate the Minnesota (UMN) use of GEE: Dams and meandering stream geomorphology (RF)
  
 #### Misc.
 
 - [x] consult with Ariel for general advice and attend some of neurohack (AA)
 - [ ] consult with Brittany/Anissa for feedback on hackathon planning/implementation? See [Brittany's post](http://astrohackweek.org/blog/ethnographic-notes.html)
-- [ ] reach out to data librarian 
+- [ ] reach out to data librarian : Rob suggest Jenn at Suzallo
 - [ ] create 'how to hack' page (?)
 
+### Confirm Dataset Ready To Go
 
+- [ ] Baboon problem (RF)
  
