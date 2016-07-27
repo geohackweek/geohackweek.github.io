@@ -20,6 +20,7 @@ Who want to help with this?
 #### Attendees
 
 - [ ] generate participant application form (RF?) 
+- [ ] generate form for code of conduct page for anonymous complaints following [this example from neurohackweek](https://neurohackweek.wufoo.com/forms/neurohackweek-code-of-conduct-violation/)_
 
 #### Travel/logistics
 
