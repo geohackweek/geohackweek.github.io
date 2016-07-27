@@ -44,12 +44,20 @@ Who want to help with this?
 - [ ] coordinate a dataset with W G-M (RF)
 - [ ] integrate the Minnesota (UMN) use of GEE: Dams and meandering stream geomorphology (RF)
  
+#### Advertising and Outreach
+
+- [ ] Twitter feed
+- [ ] contact various groups to publicize the event
+- [ ] advertise around UW campus
+
 #### Misc.
 
 - [x] consult with Ariel for general advice and attend some of neurohack (AA)
 - [ ] consult with Brittany/Anissa for feedback on hackathon planning/implementation? See [Brittany's post](http://astrohackweek.org/blog/ethnographic-notes.html)
 - [ ] reach out to data librarian : Rob suggest Jenn at Suzallo
 - [ ] create 'how to hack' page (?)
+- [ ] create 'hackpad' page (?)
+- [ ] create 'breakouts' page (?)
 
 ### Confirm Dataset Ready To Go
 

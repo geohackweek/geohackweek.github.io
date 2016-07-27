@@ -6,3 +6,16 @@ View the geohackweek website [here](https://geohackweek.github.io)
 
 * [to do list](toDo.md)
 * [wiki page](https://github.com/geohackweek/geohackweek.github.io/wiki)
+
+## Geohackweek 2016 Topics
+
+* Google Earth Engine
+* ArcGIS
+* Google Earth
+* Public cloud platforms such as Google Cloud, Amazon Web Services and Microsoft Azure
+* Cesium Html5-based data visualization
+* [Worldwide Telescope](WWT.md) GPU-based (PC-only) 5D geospatial vis engine
+* GeoMapApp available through Lamont-Doherty
+* DEM resources from ETOPO to LIDAR and beyond
+* Ocean circulation resources from ECCO to ARGO and beyond
+
