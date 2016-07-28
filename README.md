@@ -6,6 +6,7 @@ View the geohackweek website [here](https://geohackweek.github.io)
 
 * [to do list](toDo.md)
 * [wiki page](https://github.com/geohackweek/geohackweek.github.io/wiki)
+* [reading list](readingList.md)
 
 ## Geohackweek 2016 Topics
 
