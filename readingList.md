@@ -17,3 +17,14 @@ There also is a great summary of why Magellan is needed, and what if offer over 
 
 and [part two](https://youtu.be/1lF1oSjxMT4) of his talk from Feb. 2016 
 
+#### Cool projects - may be worth us trying to recreate them as a way to learn
+
+####[Twitter Maps - Locals vs Tourists](https://www.mapbox.com/labs/twitter-gnip/locals/#12/47.6388/-122.3939)
+
+The MapBox team took global tweets, analysed them to figure out if they were produced by locals (they always tweet from the same city) or tourists (tweeting from a different place then they usually do) - and put it up on mapbox.
+
+An explanation of how they did it [here](https://www.mapbox.com/blog/visualizing-3-billion-tweets/)
+and [here](https://github.com/ericfischer/datamaps)
+
+
+
