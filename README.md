@@ -11,7 +11,6 @@ View the geohackweek website [here](https://geohackweek.github.io)
 ## Geohackweek 2016 Topics
 
 * Google Earth Engine
-* ArcGIS
 * Google Earth
 * Public cloud platforms such as Google Cloud, Amazon Web Services and Microsoft Azure
 * Cesium Html5-based data visualization
