@@ -1,6 +1,7 @@
 ﻿*.sln
 *.suo
 *.config
+*.xlsx
 
 _site/geoSolutionsTables.xlsx
 img/anthony.jpg
