@@ -2,6 +2,7 @@
 *.suo
 *.config
 *.xlsx
+toDo.md
 
 _site/geoSolutionsTables.xlsx
 img/anthony.jpg
