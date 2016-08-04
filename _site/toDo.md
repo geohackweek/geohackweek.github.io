@@ -4,7 +4,7 @@ AA = Anthony; RF = Rob; CK = Catherine; RL = Randy
 
 #### Space 
 
-- [ ] [book](http://www.lib.washington.edu/ougl/learning-spaces/active-learning-classrooms) active learning classroom (RL)
+- [X] [book](http://www.lib.washington.edu/ougl/learning-spaces/active-learning-classrooms) active learning classroom (RL)
 - [ ] other options include 5th floor Phys/Astron, [health sciences rooms](https://depts.washington.edu/hsasf/instructional-support/hsrr/)
  
 
@@ -19,9 +19,8 @@ Who want to help with this?
 
 #### Attendees
 
-- [ ] generate participant application form (RF?) 
-- [ ] generate form for code of conduct page for anonymous complaints following [this example from neurohackweek](https://neurohackweek.wufoo.com/forms/neurohackweek-code-of-conduct-violation/)_
-- [ ] generate participant application form (RF! AA dependency) 
+- [X] generate form for code of conduct page for anonymous complaints following [this example from neurohackweek](https://neurohackweek.wufoo.com/forms/neurohackweek-code-of-conduct-violation/)_
+- [X] generate participant application form (RF! AA dependency) 
 - [ ] invite someonfrom Vipin Kumar's group (RF)
 - [ ] Recruit Will G-M for hard labor (RF)
 
@@ -31,9 +30,9 @@ Who want to help with this?
 
 #### Budget
 
-- [ ] prepare budget; consult with other hackathons (AA)
+- [X] prepare budget; consult with other hackathons (AA)
 - [x] set up [eventbrite page](https://www.eventbrite.com/e/geohackweek-2016-tickets-26664692814)
-- [ ] how to link eventbrite to UW budget account? (AA) 
+- [X] how to link eventbrite to UW budget account? (AA) 
 
 #### Teaching material
 
@@ -53,7 +52,7 @@ Who want to help with this?
 #### Misc.
 
 - [x] consult with Ariel for general advice and attend some of neurohack (AA)
-- [ ] consult with Brittany/Anissa for feedback on hackathon planning/implementation? See [Brittany's post](http://astrohackweek.org/blog/ethnographic-notes.html)
+- [X] consult with Brittany/Anissa for feedback on hackathon planning/implementation? See [Brittany's post](http://astrohackweek.org/blog/ethnographic-notes.html)
 - [ ] reach out to data librarian : Rob suggest Jenn at Suzallo
 - [ ] create 'how to hack' page (?)
 - [ ] create 'hackpad' page (?)
