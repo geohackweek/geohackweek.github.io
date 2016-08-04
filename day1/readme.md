@@ -7,6 +7,7 @@
   * overview of Python: anaconda; environments; library installation on different platforms
   * github: location of our shared repositories; review of basics
   * shared datasets: where located; how accessed; overall topics
+  * docker?
   * setup for Google Earth Engine work: making sure everyone has the APIs working (Java Script and/or Python); hacking goals for GEE work tomorrow
   * instructors: AA, EM, BH, RF, CK, AS
 - 10:30 - 11:00 am: coffee
