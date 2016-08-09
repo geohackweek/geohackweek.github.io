@@ -11,7 +11,7 @@
 
 #### Tools we will use
 
-<img src="https://github.com/geohackweek/geohackweek.github.io/tree/master/img/vector_icon.png" width = "100" border = "1">
+![text](https://github.com/geohackweek/geohackweek.github.io/tree/master/img/vector_icon.png)
 
 
 
