@@ -11,7 +11,7 @@
 
 #### Tools we will use
 
-![alt][img/vector_icon.png]
+<img src="../img/vector_icon.png" width = "100" border = "1">
 
 
 
