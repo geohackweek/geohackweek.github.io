@@ -11,7 +11,7 @@
 
 #### Tools we will use
 
-![text](https://github.com/geohackweek/geohackweek.github.io/blob/master/img/vector_icon.png)
+<img src = "https://github.com/geohackweek/geohackweek.github.io/blob/master/img/vector_icon.png" width = "100">
 
 
 
