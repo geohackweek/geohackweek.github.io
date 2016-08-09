@@ -11,7 +11,7 @@
 
 #### Tools we will use
 
-![text](https://github.com/geohackweek/geohackweek.github.io/tree/master/img/vector_icon.png)
+![text](https://github.com/geohackweek/geohackweek.github.io/blob/master/img/SloanLogo.png)
 
 
 
