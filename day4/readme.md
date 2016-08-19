@@ -2,13 +2,11 @@
 
 #### Detailed Schedule
 
-* 9:00 am - 9:45 pm: Python tools for geosciences: array datasets 
-  * xarray; netcdf tools
-* 9:45 am - 10:30 am: Python tools for geosciences: remote sensing
-  * mapbox; 
-* 10:30 am - 10:45 am: coffee
-* 10:30 am - 12:00 am: Lightning talks
-* 12:30 - 1:30 pm: Lunch break
-* 1:30 - 3:00 pm: Mapping and visulaization
-   * basemap; cartopy; Cesium; LeafletJS  
-* 3:00 - 6:00 pm: open session 
+* 9:00 am - 10:30 am:  Access to remote geospatial datasets using Python 
+* 10:30 am - 11:00 am: coffee
+* 11:00 am - 12:30 pm: Deployment of cloud computing services
+  * introduction to cloud vendors and those services most relevant to geospatial work
+  * templates for deploying geodatabases in the cloud
+  * how to deploy your own lightweight web services, such as Application Programming Interfaces 
+* 12:00 pm - 1:30 pm: lunch break
+
