@@ -11,3 +11,4 @@ _site/img/anthony.jpg
 *.sln
 *.md~
 *.html~
+*-checkpoint.ipynb
