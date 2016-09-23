@@ -12,3 +12,4 @@ _site/img/anthony.jpg
 *.md~
 *.html~
 *-checkpoint.ipynb
+*.nc
