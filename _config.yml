@@ -3,7 +3,7 @@ title: Geohackweek
 email: arendta@uw.edu
 url: https://geohackweek.github.io
 description: "A workshop and hackathon in geospatial data science at the University of Washington eScience Institute"
-encoding: utf-8
+encoding: UTF-8
 
 # Google services
 google_analytics: UA—77504214-2
