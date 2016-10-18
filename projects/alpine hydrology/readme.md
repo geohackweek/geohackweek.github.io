@@ -3,22 +3,7 @@
 
 #### The problem
 
-Relating geospatial variability to terrain params.
-
-Understanding error structure (spatial stats)
-
-WRF output / data exploration
-
-
-Environmental data are often available at a wide range of different spatial and temporal resolutions. Linking together these datasets to enable enhanced understanding of environmental processes is a key challenge of modern geospatial analysis. 
-
-- exploration of environmental data through spatial statistics offers insights about spatial patterns, trends and spatial relationships
-- explore error structure
-- impact of terrain on SWE distribution
-
-- what metric do we use to assess model quality
- 
--subpixel variability
+Many geospatial problems require an assessment of the spatial variability of environmental data. This is often used to explore the errors between modeled and observed geospatial fields. For example, we often need to know not only the mean difference between datasets, but how those differences vary across the landscape. In addition, just examining the spatial statistics in a geophysical field may reveal things about land surface physcial processes.
 
 #### Application Example
 
@@ -26,6 +11,7 @@ In the mountains, snow depth variability is caused by both accumulation and abla
 
 <br>
 <img src="img/hydroGrid.png" width = "500" border = "10">
+<br>
 
 Hydrologic model grid representation. For each model grid cell a single value is computed. Typical model scales are 30, 90, 150m and larger. Running a model at 3-m scale is not feasible due to high computational effort.
 
@@ -35,16 +21,16 @@ These repeat, high-resolution snow depth spatial datasets provide new opportunit
 
 #### Sample data
 
-The data provided consist of LiDAR- derived snow depth datasets over the Tuolumne River watershed, source of San Francisco water supply. The data were acquired by NASA JPL using airborne LiDAR technology as part of the Airborne Snow Observatory (ASO) program. The area is about 2709 km2. The spatial resolution of the snow depth grids is 3m, making each grid of 17699 x 16780  elements and about 1.16GB geotiffs in size. The dataset is composed of the bare earth model (digital elevation model, DEM), and snow depth spatial grids on 11 occasions in 2014.
+The data provided consist of the following, all located over the Tuolumne River watershed, source of San Francisco water supply. All data are at 90 m resolution:
 
-- DHSVM model SWE, 11 occasions in 2014 @ 90 m res
-- Lidar derived swe, same period
-- 90 m DEM (from which they derive slope, etc)
-- binary vegetation map: 0 = no forest; 1 = forest
-
+* DHSVM modeled snow water equivalence
+* LiDAR-derived snow depth datasets acquired by NASA JPL using airborne LiDAR technology as part of the Airborne Snow Observatory (ASO) program. 
+* Digital Elevation Model (DEM) 
+* binary vegetation map: 0 = no forest; 1 = forest
+ 
 #### Existing methods
 
-ArcGIS? r
+This type of work is often carried out using spatial statistics tools in ArcGIS.
 
 #### Research Questions
 
@@ -57,6 +43,7 @@ Hypotheses:
 3. Uncertainty in conversion of Lidar snow depth to SWE? Subpixel variability?
 4. Explore WRF fields
 
+#### Possible Methods
 
 1. Identify and use spatial statistics and metrics to characterize snow depth spatial variability. Potential methods can range from moving window statistics and correlation and regression techniques, to variogram and principal component analyses. 
 2. Analyze snow depth and snowmelt patterns as a function of both terrain and vegetation cover to examine the relative influence of both factors on snow depth spatial variability and melt rates (examples of terrain-derived data include elevation, curvature, slope, aspect, viewshed (for shade), and topographic radiation).
