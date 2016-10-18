@@ -1,18 +1,23 @@
-### Project Title: Snow depth spatial variability: data exploration using LiDAR-derived snow depth datasets
+### Project Title: Data exploration using GRACE-derived groundwater levels and well point datasets
 
 
 #### The problem
 
+Tools are needed to connect remote sensing data that varies in space and time to point measurements at specific locations and time intervals. Studies have analyzed operational, technical, institutional, financial, and environmental predictors of functionality for data collected from over 25,000 community-managed handpumps in Liberia, Sierra Leone, and Uganda (Foster (2013)). Lahren and Cook (2016) code and analyze the reasons for failure in 250,000 water points in 25 countries collected using the Water Point Data Exchange (WPDx). They find that 30% of boreholes are not functioning, with a further 12.5% that are functional but with qualifiers. ‚ÄúTechnical or mechanical‚Äù reasons are most commonly cited as the reason for non-functionality (55%).  
 
-Environmental data are often available at a wide range of different spatial and temporal resolutions. Linking together these datasets to enable enhanced understanding of environmental processes is a key challenge of modern geospatial analysis. 
+Remote sensing data: The Gravity Recovery and Climate Experiment (GRACE:joint mission of NASA and the German Aerospace Center)  measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
 
-- exploration of environmental data through spatial statistics offers insights about spatial patterns, trends and spatial relationships
+Point data: The Water Point Data Exchange WPDx) is a global platfrom for sharing water point data to understand water services with 240,000 + water points in the dataset with the quantity of data varying between government support for complete datasets (all 101,000 water points in Uganda) as well as data in other countries with known GRACE observable groundwater levels (India).  
+
+- exploration of spatial statistics offers insights about spatial patterns, trends and spatial relationships
 - explore error structure
 - impact of terrain on SWE distribution
 
 - what metric do we use to assess model quality
  
 #### Application Example
+
+Can reasons for well failure using geolocated water points be linked to falling groundwater levels using spatial correlation and spatial statistics ? 
 
 In the mountains, snow depth variability is caused by both accumulation and ablation processes with varying effects from terrain features, wind and vegetation cover. Current estimation method of the amount of water stored in the snowpack has very poor representation of snow spatial variability as it is based on statistical methods and index forecasts using sparse point location data. Recent advancements in LiDAR technology make possible the acquisition of spatially distributed snow depth data at high resolution (1 to 3 m) over large watersheds. Understanding snow depth spatial variability and differential snow melt patterns across complex terrain is crucial for estimating total water stored in the snowpack, and to support spatially distributed forecast hydrologic models. 
 
@@ -54,8 +59,8 @@ How do people generally work with these data? What are some of the drawbacks and
 #### Background reading: 
 
 * Deems, J. S., T. H. Painter, and D. C. Finnegan. 2013. Lidar measurement of snow depth: a review. Journal of Glaciology 59(215): 467-479, doi:10.3189/2013JoG12J154.
-* LÛpez-Moreno, J. I., Revuelto J., Fassnacht S. R., AzorÌn-Molina C., Vicente-Serrano S. M., Mor·n-Tejeda E., and Sexstone G. A. (2015), Snowpack variability across various spatio-temporal resolutions, Hydrol. Process., 29, 1213ñ1224, doi:10.1002/hyp10245
+* L√≥pez-Moreno, J. I., Revuelto J., Fassnacht S. R., Azor√≠n-Molina C., Vicente-Serrano S. M., Mor√°n-Tejeda E., and Sexstone G. A. (2015), Snowpack variability across various spatio-temporal resolutions, Hydrol. Process., 29, 1213‚Äì1224, doi:10.1002/hyp10245
 * Fassnacht, S. R., and J. S. Deems. 2006. Measurement Sampling and Scaling for Deep Montane Snow Depth Data. Hydrological Processes 20: 829-838, doi:10.1002/hyp.6119.
-* Revuelto, J.J. I. LÛpez-Moreno,C. Azorin-Molina, and S. M. Vicente-Serrano (2015),Canopy influence on snow depth distribution in a pine stand determined from terrestrial laser data,Water Resour. Res., 51, 3476ñ3489, doi:10.1002/2014WR016496.
-* Revuelto, J., J. I. Lopez-Moreno, C. Azorin-Molina, and S. M. Vicente-Serrano (2014), Topographic control of snowpack distribution in a small catchment in the central Spanish Pyrenees: Intra- and inter-annual persistence, Cryosphere, 8, 1989ñ2006, doi:10.5194/tc-8-1989-2014.
+* Revuelto, J.J. I. L√≥pez-Moreno,C. Azorin-Molina, and S. M. Vicente-Serrano (2015),Canopy influence on snow depth distribution in a pine stand determined from terrestrial laser data,Water Resour. Res., 51, 3476‚Äì3489, doi:10.1002/2014WR016496.
+* Revuelto, J., J. I. Lopez-Moreno, C. Azorin-Molina, and S. M. Vicente-Serrano (2014), Topographic control of snowpack distribution in a small catchment in the central Spanish Pyrenees: Intra- and inter-annual persistence, Cryosphere, 8, 1989‚Äì2006, doi:10.5194/tc-8-1989-2014.
 
