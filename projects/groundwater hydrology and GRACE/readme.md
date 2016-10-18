@@ -3,8 +3,7 @@
 
 #### The problem
 
-Tools are needed to connect remote sensing data that varies in space and time to point measurements at specific locations and time intervals. The integration of satellite missions (GRACE) with hydrology models for determining drought indicators and water levels has been done in the United States (Houborg, et al., 2012; Zaitchick et al., 2008) using data assimilation from sophisticated observatory networks that are not available, for example, in sub-saharan Africa. Studies have analyzed operational, technical, institutional, financial, and environmental predictors of functionality for groundwater access (well) data collected from over 25,000 community-managed handpumps in Liberia, Sierra Leone, and Uganda (Foster (2013)). Lahren and Cook (2016) code and analyze the reasons for failure in 250,000 water points in 25 countries and found that 30% of boreholes are not functioning, either for "technical or mechanical” reasons, or for "low quantity".   According to the World Bank, water supply failure in Africa is estimated to “represent a lost investment in excess of $1.2 billion” (Bonsor et. al. 2015).  Women and girls continue to be the world’s water collectors, spending a significant fraction of their time and energy on the task (Sorenson et al 2011, Graham et al 2016, Cook et al 2016). Can a planetary observational tool be used to understand groundwater access and vulnerability for domestic use in rural households? If so, we can further investigate and develop the GRACE for Girls project.
-
+Tools are needed to connect remote sensing data that varies in space and time to point measurements at specific locations and time intervals. The integration of satellite missions (GRACE) with hydrology models for determining drought indicators and water levels has been done in the United States (Houborg, et al., 2012; Zaitchick et al., 2008) using data assimilation from sophisticated observatory networks that are not available, for example, in sub-saharan Africa.  However, there are studies have analyzed operational, technical, institutional, financial, and environmental predictors of functionality for groundwater access (well) data collected from over 25,000 community-managed handpumps in Liberia, Sierra Leone, and Uganda (Foster (2013)). Lahren and Cook (2016) code and analyze the reasons for failure in 250,000 water points in 25 countries and found that 30% of boreholes are not functioning, either for "technical or mechanical” reasons, or for "low quantity".   According to the World Bank, water supply failure in Africa is estimated to “represent a lost investment in excess of $1.2 billion” (Bonsor et. al. 2015).  Women and girls continue to be the world’s water collectors, spending a significant fraction of their time and energy on the task (Sorenson et al 2011, Graham et al 2016, Cook et al 2016). Can a planetary scale observational tool be used to understand groundwater access and vulnerability for domestic use in rural households? If so, we can further investigate and develop the GRACE for Girls project.
 
 #### Application Example
 
@@ -23,7 +22,7 @@ These spatial datasets provide new opportunities to:
 
 How much is hydrological scarcity contributing to handpump failure in Africa?
 
-Remote sensing data: The Gravity Recovery and Climate Experiment ( [GRACE:joint mission of NASA and the German Aerospace Center](http://www.csr.utexas.edu/grace/) ) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. [Faisal - more details on data product here]
+Remote sensing data: The Gravity Recovery and Climate Experiment ( [GRACE:joint mission of NASA and the German Aerospace Center](http://www.csr.utexas.edu/grace/) ) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
 
 Point data: The Water Point Data Exchange ([WPDx](https://www.waterpointdata.org/)) is a global platfrom for sharing water point data to understand water services with 240,000 + water points in the dataset with the quantity of data varying between government support for complete datasets (all 101,000 water points in Uganda) as well as data in other countries with known GRACE observable groundwater levels (India).  
 
@@ -46,7 +45,7 @@ What are some of the drawbacks and challenges?
 
 
 #### Potential tools:
-
+[TO DO]
 * [scikit-learn](http://scikit-learn.org/stable/index.html)
 * Earth System Modeling Framework Python interface: [ESMPy](https://www.earthsystemcog.org/projects/esmf/)
 
@@ -73,6 +72,8 @@ What are some of the drawbacks and challenges?
 * Houborg, R., M. Rodell, B. Li, R. Reichle, and B. Zaitchik, Drought indicators based on model assimilated GRACE terrestrial water storage observations, Wat. Resour. Res., 48, W07525, doi:10.1029/2011WR011291, 2012.
 
 * Isham, J., Narayan, D., & Pritchett, L. (1995). Does participation improve performance? Establishing causality with subjective data. World Bank Economic Review, 9(2), 175–200. http://doi.org/10.1093/wber/9.2.175
+
+* Lahren, S., J. Cook (2016). Why are Handpumps Breaking? Coding Failure Reasons in the WPDx Dataset, HydroShare, http://www.hydroshare.org/resource/53129bcce41e4db096afdca7419f0e28
 
 * McPherson, H. J., & McGarry, M. G. (1987). User participation and implementation strategies in water and sanitation projects. International Journal of Water Resources Development, 3(1), 23–30. http://doi.org/10.1080/07900628708722330
 
