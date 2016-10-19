@@ -3,54 +3,49 @@
 
 #### The problem
 
-Tools are needed to connect remote sensing data that varies in space and time to point measurements at specific locations and time intervals. The integration of satellite missions (GRACE) with hydrology models for determining drought indicators and water levels has been done in the United States (Houborg, et al., 2012; Zaitchick et al., 2008) using data assimilation from sophisticated observatory networks that are not available, for example, in sub-saharan Africa.  However, there are studies have analyzed operational, technical, institutional, financial, and environmental predictors of functionality for groundwater access (well) data collected from over 25,000 community-managed handpumps in Liberia, Sierra Leone, and Uganda (Foster (2013)). Lahren and Cook (2016) code and analyze the reasons for failure in 250,000 water points in 25 countries and found that 30% of boreholes are not functioning, either for "technical or mechanical” reasons, or for "low quantity".   According to the World Bank, water supply failure in Africa is estimated to “represent a lost investment in excess of $1.2 billion” (Bonsor et. al. 2015).  Women and girls continue to be the world’s water collectors, spending a significant fraction of their time and energy on the task (Sorenson et al 2011, Graham et al 2016, Cook et al 2016). Can a planetary scale observational tool be used to understand groundwater access and vulnerability for domestic use in rural households? If so, we can further investigate and develop the GRACE for Girls project.
+A common challenge in interpreting and validating remote sensing data is in comparing these data to direct observations on the ground. Often remotely sensed data will cover large regions and have different temporal and spatial sampling frequency than point observations derived in the field. This kind of analysis requires geospatial tools to enable resampling, assessment of spatial statistics and extrapolation of point data to broader regions.
 
 #### Application Example
 
-In areas where domestic water access is primarily through wells, are areas with non-functional wells because of low quantity observable with remote sensing data?   
-
-What spatial statistics can be used to understand the reasons for well failure using geolocated water points and  falling groundwater levels? 
+The integration of satellite missions (GRACE) with hydrology models for determining drought indicators and water levels has been done in the United States (Houborg, et al., 2012; Zaitchick et al., 2008) using data assimilation from sophisticated observatory networks that are not available, for example, in sub-saharan Africa.  However, there are studies that have analyzed operational, technical, institutional, financial, and environmental predictors of functionality for groundwater access (well) data collected from over 25,000 community-managed handpumps in Liberia, Sierra Leone, and Uganda (Foster, 2013). Lahren and Cook (2016) code and analyze the reasons for failure in 250,000 water points in 25 countries and found that 30% of boreholes are not functioning, either for "technical or mechanical” reasons, or for "low quantity".   According to the World Bank, water supply failure in Africa is estimated to “represent a lost investment in excess of $1.2 billion” (Bonsor et. al. 2015).  Women and girls continue to be the world’s water collectors, spending a significant fraction of their time and energy on the task (Sorenson et al 2011, Graham et al 2016, Cook et al 2016). Can a planetary scale observational tool be used to understand groundwater access and vulnerability for domestic use in rural households? If so, we can further investigate and develop the GRACE for Girls project.
 
 In recent years, NGOs, as well as governments and academics, have begun collecting water point data in an effort to not only monitor functionality, but to understand the relationship between determining factors and failure of handpumps.   “Low quantity” is cited as a reason in 43% of failed boreholes (where some failure reason was given) in Lahren and Cook (2016).  But poor yield can be due to a number of different factors, including poor siting, mechanical failure, or hydrological scarcity. Some studies have pointed the finger at poor community participation and low user demand (McPherson and McGarry 1987; Isham et. al. 1995), poor construction quality and siting (RWSN 2010; Harvey 2004; Danert 2013), and low capacity of communities to raise the necessary finances for repair or difficulty in accessing spare parts (Skinner et. al. 2002; Franceys & Pezon 2010; Schweitser & Mihelcic 2012).  The data supporting these analyses, however, has typically been specific to regions or countries, or anectodal.  The proposed project will attempt to leverage externally-derived measures of groundwater abstraction using GRACE to determine what fraction of non-functionality can reasonably be attributed to falling groundwater levels and low water availability. 
 
 These spatial datasets provide new opportunities to: 
-1) understand the relationship between GRACE grid cell water level trends and well point datasets that have been identified by Lahren and Cook (2016) as identified as a failure due to a hydrologic deficit/low quantity. 
-2) understand the correlation between well functionality status and GRACE water level trends in locations where GRACE estimates decreasing trends.
-3) understand the correlation between well functionality and GRACE trends in various African countries (or other subset of well data).
+1 understand the relationship between GRACE water level trends and well point datasets that have been identified by Lahren and Cook (2016) as identified as a failure due to a hydrologic deficit/low quantity. 
+2 understand the correlation between well functionality status and GRACE water level trends in locations where GRACE estimates decreasing trends.
+3 understand the correlation between well functionality and GRACE trends in various African countries (or other subset of well data).
 
-#### Sample data
+#### Research Questions
 
 How much is hydrological scarcity contributing to handpump failure in Africa?
 
-Remote sensing data: The Gravity Recovery and Climate Experiment ( [GRACE:joint mission of NASA and the German Aerospace Center](http://www.csr.utexas.edu/grace/) ) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
+1 In areas where domestic water access is primarily through wells, are areas with non-functional wells because of low quantity observable with remote sensing data?   
+2 What spatial statistics can be used to understand the reasons for well failure using geolocated water points and  falling groundwater levels? 
+
+#### Sample data
+
+Remote sensing data: The Gravity Recovery and Climate Experiment ([GRACE:joint mission of NASA and the German Aerospace Center](http://www.csr.utexas.edu/grace/) ) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
 
 Point data: The Water Point Data Exchange ([WPDx](https://www.waterpointdata.org/)) is a global platfrom for sharing water point data to understand water services with 240,000 + water points in the dataset with the quantity of data varying between government support for complete datasets (all 101,000 water points in Uganda) as well as data in other countries with known GRACE observable groundwater levels (India).  
 
 The WPDx data downloaded in February 2016, and coded for well failure due to water resources issues (Lahren and Cook (2016)), is provided on [Hydroshare](www.hydroshare.org). Go to Collaborate. Ask to Join Freshwater Group. Click on link for Freshwaterhack of UWGeohackweek.  Go to Collection Contents. Click on Freshwaterhack Project: Groundwater Resources and GRACE
 
-#### Existing methods
-
-[TO DO]
-How do people generally work with these data? 
-
-What are some of the drawbacks and challenges?
-
 #### Project Ideas 
 
-1) Identify and use spatial statistics to characterize well data with well failure due to a hydrologic deficit/low quantity. Identify whether a spatial correlation exists between non-functional wells and decreasing groundwater trends from GRACE. 
+1 Identify and use spatial statistics to characterize well data with well failure due to a hydrologic deficit/low quantity. Identify whether a spatial correlation exists between non-functional wells and decreasing groundwater trends from GRACE. 
 
-2) Identify and use spatial statistics to characterize where GRACE predicts decreasing groundwater trends. Explore the WPDx data variables and locations to identify any correlations. 
+2 Identify and use spatial statistics to characterize where GRACE predicts decreasing groundwater trends. Explore the WPDx data variables and locations to identify any correlations. 
 
-3) Identify any country specific correlations or trends in the well point database and GRACE. 
+3 Identify any country-specific correlations or trends in the well point database and GRACE. 
 
+#### Existing methods
+
+Comparison of point and array datasets is often carried out using GIS tools.
 
 #### Potential tools:
+
 [TO DO]
-* [scikit-learn](http://scikit-learn.org/stable/index.html)
-* Earth System Modeling Framework Python interface: [ESMPy](https://www.earthsystemcog.org/projects/esmf/)
-
-<img src = "https://github.com/geohackweek/geohackweek.github.io/blob/master/img/ndarray_icon.png" width = "60"> [xarray](https://geohackweek.github.io/nDarrays/)
-
 
 #### Background reading: 
 * Bonsor, H. C., Oates, N., Chilton, P. J., Carter, R. C., Casey, V., Macdonald, A. M., … Bennie, M. (2015). UPGro Catalyst Grant Report - A Hidden Crisis: strengthening the evidence base on the sustainability of rural groundwater supplies – results from a pilot study in Uganda.
