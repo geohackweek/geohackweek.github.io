@@ -1,6 +1,5 @@
 ### Project Title: Snow depth spatial variability: data exploration using LiDAR-derived snow depth datasets
 
-
 #### The problem
 
 Many geospatial problems require an assessment of the spatial variability of environmental data. This is often used to explore the errors between modeled and observed geospatial fields. For example, we often need to know not only the mean difference between datasets, but how those differences vary across the landscape. In addition, just examining the spatial statistics in a geophysical field may reveal things about land surface physcial processes.
@@ -16,8 +15,9 @@ In the mountains, snow depth variability is caused by both accumulation and abla
 Hydrologic model grid representation. For each model grid cell a single value is computed. Typical model scales are 30, 90, 150m and larger. Running a model at 3-m scale is not feasible due to high computational effort.
 
 These repeat, high-resolution snow depth spatial datasets provide new opportunities to: 
-1) understand model subpixel spatial variability of snow depth (see example in Figure 1) across a range of model scales as the ablation season progresses, and 
-2) examine spatial patterns of snow depth as a function of terrain and vegetation features for integration with hydrologic modeling.
+
+1. understand model subpixel spatial variability of snow depth (see example in Figure 1) across a range of model scales as the ablation season progresses, and 
+2. examine spatial patterns of snow depth as a function of terrain and vegetation features for integration with hydrologic modeling.
 
 #### Sample data
 
@@ -34,14 +34,13 @@ This type of work is often carried out using spatial statistics tools in ArcGIS.
 
 #### Research Questions
 
-What are the reasons for differences?
+The primary question: what are the reasons for differences between the predicted snow water equivalence from the hydrological model versus those from the LiDAR observations?
 
-Hypotheses:
+Related questions:
 
 1. Are errors higher on specific slopes/aspects/shaded areas?
 2. Do certain areas of the watershed have larger errors than other due to modeled precip variability?
-3. Uncertainty in conversion of Lidar snow depth to SWE? Subpixel variability?
-4. Explore WRF fields
+3. Is there uncertainty in conversion of Lidar snow depth to SWE? Subpixel variability?
 
 #### Possible Methods
 
@@ -53,9 +52,8 @@ Hypotheses:
 * variograms? explore the error structure?
 * [scikit-learn](http://scikit-learn.org/stable/index.html)
 * Earth System Modeling Framework Python interface: [ESMPy](https://www.earthsystemcog.org/projects/esmf/)
-* David Shean's software
-<img src = "https://github.com/geohackweek/geohackweek.github.io/blob/master/img/ndarray_icon.png" width = "60"> [xarray](https://geohackweek.github.io/nDarrays/)
-* link to Nicoleta's libraries
+* <img src = "https://github.com/geohackweek/geohackweek.github.io/blob/master/img/ndarray_icon.png" width = "60"> [xarray](https://geohackweek.github.io/nDarrays/)
+* [Nicoleta's libraries](https://github.com/NCristea/WRF_processing)
 
 #### Background reading: 
 
