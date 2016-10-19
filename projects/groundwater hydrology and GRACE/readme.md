@@ -12,16 +12,16 @@ The integration of satellite missions (GRACE) with hydrology models for determin
 In recent years, NGOs, as well as governments and academics, have begun collecting water point data in an effort to not only monitor functionality, but to understand the relationship between determining factors and failure of handpumps.   “Low quantity” is cited as a reason in 43% of failed boreholes (where some failure reason was given) in Lahren and Cook (2016).  But poor yield can be due to a number of different factors, including poor siting, mechanical failure, or hydrological scarcity. Some studies have pointed the finger at poor community participation and low user demand (McPherson and McGarry 1987; Isham et. al. 1995), poor construction quality and siting (RWSN 2010; Harvey 2004; Danert 2013), and low capacity of communities to raise the necessary finances for repair or difficulty in accessing spare parts (Skinner et. al. 2002; Franceys & Pezon 2010; Schweitser & Mihelcic 2012).  The data supporting these analyses, however, has typically been specific to regions or countries, or anectodal.  The proposed project will attempt to leverage externally-derived measures of groundwater abstraction using GRACE to determine what fraction of non-functionality can reasonably be attributed to falling groundwater levels and low water availability. 
 
 These spatial datasets provide new opportunities to: 
-1 understand the relationship between GRACE water level trends and well point datasets that have been identified by Lahren and Cook (2016) as identified as a failure due to a hydrologic deficit/low quantity. 
-2 understand the correlation between well functionality status and GRACE water level trends in locations where GRACE estimates decreasing trends.
-3 understand the correlation between well functionality and GRACE trends in various African countries (or other subset of well data).
+1. understand the relationship between GRACE water level trends and well point datasets that have been identified by Lahren and Cook (2016) as identified as a failure due to a hydrologic deficit/low quantity. 
+2. understand the correlation between well functionality status and GRACE water level trends in locations where GRACE estimates decreasing trends.
+3. understand the correlation between well functionality and GRACE trends in various African countries (or other subset of well data).
 
 #### Research Questions
 
 How much is hydrological scarcity contributing to handpump failure in Africa?
 
-1 In areas where domestic water access is primarily through wells, are areas with non-functional wells because of low quantity observable with remote sensing data?   
-2 What spatial statistics can be used to understand the reasons for well failure using geolocated water points and  falling groundwater levels? 
+1. In areas where domestic water access is primarily through wells, are areas with non-functional wells because of low quantity observable with remote sensing data?  
+2. What spatial statistics can be used to understand the reasons for well failure using geolocated water points and  falling groundwater levels? 
 
 #### Sample data
 
@@ -33,11 +33,11 @@ The WPDx data downloaded in February 2016, and coded for well failure due to wat
 
 #### Project Ideas 
 
-1 Identify and use spatial statistics to characterize well data with well failure due to a hydrologic deficit/low quantity. Identify whether a spatial correlation exists between non-functional wells and decreasing groundwater trends from GRACE. 
+1. Identify and use spatial statistics to characterize well data with well failure due to a hydrologic deficit/low quantity. Identify whether a spatial correlation exists between non-functional wells and decreasing groundwater trends from GRACE. 
 
-2 Identify and use spatial statistics to characterize where GRACE predicts decreasing groundwater trends. Explore the WPDx data variables and locations to identify any correlations. 
+2. Identify and use spatial statistics to characterize where GRACE predicts decreasing groundwater trends. Explore the WPDx data variables and locations to identify any correlations. 
 
-3 Identify any country-specific correlations or trends in the well point database and GRACE. 
+3. Identify any country-specific correlations or trends in the well point database and GRACE. 
 
 #### Existing methods
 
