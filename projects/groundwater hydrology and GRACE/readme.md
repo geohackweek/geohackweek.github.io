@@ -25,7 +25,7 @@ How much is hydrological scarcity contributing to handpump failure in Africa?
 
 #### Sample data
 
-Remote sensing data: The Gravity Recovery and Climate Experiment ([GRACE:joint mission of NASA and the German Aerospace Center](http://www.csr.utexas.edu/grace/) ) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
+Remote sensing data: The Gravity Recovery and Climate Experiment ([GRACE](http://www.csr.utexas.edu/grace/), a joint mission of NASA and the German Aerospace Center) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
 
 Point data: The Water Point Data Exchange ([WPDx](https://www.waterpointdata.org/)) is a global platfrom for sharing water point data to understand water services with 240,000 + water points in the dataset with the quantity of data varying between government support for complete datasets (all 101,000 water points in Uganda) as well as data in other countries with known GRACE observable groundwater levels (India).  
 
@@ -45,7 +45,7 @@ Comparison of point and array datasets is often carried out using GIS tools.  Pe
 
 #### Potential tools:
 
-[TO DO]
+* GeoPandas
 
 #### Background reading: 
 * Bonsor, H. C., Oates, N., Chilton, P. J., Carter, R. C., Casey, V., Macdonald, A. M., … Bennie, M. (2015). UPGro Catalyst Grant Report - A Hidden Crisis: strengthening the evidence base on the sustainability of rural groundwater supplies – results from a pilot study in Uganda.
