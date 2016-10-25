@@ -24,12 +24,23 @@ How much is hydrological scarcity contributing to handpump failure in Africa?
 2. What spatial statistics can be used to understand the reasons for well failure using geolocated water points and  falling groundwater levels? 
 
 #### Sample data
-
-Remote sensing data: The Gravity Recovery and Climate Experiment ([GRACE](http://www.csr.utexas.edu/grace/), a joint mission of NASA and the German Aerospace Center) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
-
 Point data: The Water Point Data Exchange ([WPDx](https://www.waterpointdata.org/)) is a global platfrom for sharing water point data to understand water services with 240,000 + water points in the dataset with the quantity of data varying between government support for complete datasets (all 101,000 water points in Uganda) as well as data in other countries with known GRACE observable groundwater levels (India).  
 
 The WPDx data downloaded in February 2016, and coded for well failure due to water resources issues (Lahren and Cook (2016)), is provided on [Hydroshare](www.hydroshare.org). Go to Collaborate. Ask to Join Freshwater Group. Click on link for Freshwaterhack of UWGeohackweek.  Go to Collection Contents. Click on Freshwaterhack Project: Groundwater Resources and GRACE
+
+Remote sensing data: The Gravity Recovery and Climate Experiment ([GRACE](http://www.csr.utexas.edu/grace/), a joint mission of NASA and the German Aerospace Center) measures the Earth's gravity anomalies to study how mass is distributed around the planet and used for studying Earth's eceans, geology, and climate. 
+
+·        [GRACE Monthly Mass Grids - JPL Global Mascons](http://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons)
+Global surface mass (land + ocean) from GRACE is updated monthly, and is provided on 0.5-degree global grids.
+
+·        [GRACE Monthly Mass Grids - GSFC Global Mascons](http://ssed.gsfc.nasa.gov/grace/products.html)
+This is another GRACE solution using the mascon approach from the team at NASA-GSFC. Current span: Feb 2003 - June 2014. For details, please visit the GSFC-mascon site.
+
+·        [Interactive GRACE Data Browsers](http://grace.jpl.nasa.gov/data/get-data/interactive-browsers)
+These links to data browser allow the interactive retrieval of GRACE Land data over river basins, as well as the evaluation of long-term trends and mean seasonal amplitudes.
+
+·        [GLDAS Land Water Content (monthly)](http://grace.jpl.nasa.gov/data/get-data/land-water-content)
+A GRACE-independent forward simulation of monthly land water storage changes (currently using soil moisture, snow, and canopy water). Can be used for comparison and residual groundwater studies.
 
 #### Project Ideas 
 
