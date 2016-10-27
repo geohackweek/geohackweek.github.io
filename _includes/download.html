@@ -168,8 +168,8 @@
                 latlng = [locations[i]["geometry"]["lat"], locations[i]["geometry"]["lng"]];
                 marker = L.marker(latlng, {
                     icon: L.icon.glyph({
-                        prefix:'glyphicon',
-                        glyph: 'bed'
+                        prefix:'mif',
+                        glyph: 'hotel'
                     })
                 }).addTo(uwmap);
                 html = "<h3><a href="+ locations[i]['link'] +">" + locations[i]['label'] + "</a></h3>" +
@@ -181,8 +181,8 @@
 
             var eventMarker = L.marker(eventLatLng, {
                 icon: L.icon.glyph({
-                    prefix: 'glyphicon',
-                    glyph: 'globe'
+                    prefix: 'mif',
+                    glyph: 'earth2'
                 })
             }).addTo(uwmap);
 
