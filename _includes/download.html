@@ -1,7 +1,7 @@
     <!-- Download Section -->
     <section id="apply" class="content-section text-center">
         <div class="download-section" style="padding: 0;">
-            <div id="map"></div>
+            <div id="geohackmap"></div>
         <script>
             var locations = [
                     {
@@ -155,7 +155,7 @@
                 mapCenter: eventLatLng,
                 initZoom:12
             };
-            var uwmap = L.map('map').setView(mapOptions.mapCenter, mapOptions.initZoom);
+            var uwmap = L.map('geohackmap').setView(mapOptions.mapCenter, mapOptions.initZoom);
 
             L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
                 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
