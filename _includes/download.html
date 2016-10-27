@@ -172,8 +172,8 @@
                         glyph: 'hotel'
                     })
                 }).addTo(uwmap);
-                html = "<h3><a href="+ locations[i]['link'] +">" + locations[i]['label'] + "</a></h3>" +
-                "<p>"+ locations[i]['address']+"<br>"+
+                html = "<h3 style='font-size: 20px; margin-bottom: 15px;'><a href="+ locations[i]['link'] +">" + locations[i]['label'] + "</a></h3>" +
+                "<p style='font-size: 15px;'>"+ locations[i]['address']+"<br>"+
                 "<a href=tel:"+locations[i]['phone'].replace(/[^\w]+/g,'')+">"+ locations[i]['phone']+"</a><br>" +
                 "<a href="+locations[i]['directions']+">Direction to the event</a></p>";
                 marker.bindPopup(html).on('click', clickZoom);
@@ -186,8 +186,8 @@
                 })
             }).addTo(uwmap);
 
-            var eventhtml = "<h3><a href="+ eventLocation['link'] +">" + eventLocation['label'] + "</a></h3>" +
-                "<p>"+ eventLocation['address']+"<br>"+
+            var eventhtml = "<h3 style='font-size: 20px; margin-bottom: 15px;'><a href="+ eventLocation['link'] +">" + eventLocation['label'] + "</a></h3>" +
+                "<p style='font-size: 15px;'>"+ eventLocation['address']+"<br>"+
                 "<a href=tel:"+eventLocation['phone'].replace(/[^\w]+/g,'')+">"+ eventLocation['phone']+"</a></p>";
             eventMarker.bindPopup(eventhtml).openPopup().on('click', clickZoom);
 
