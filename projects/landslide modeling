@@ -2,16 +2,17 @@ Project Title: Data integration for multi-hazard risk assessment... starting wit
 Collaborators on this project:
 
 
-University of Washington: 
+University of Washington Contacts: 
 Ronda Strauch, rstrauch@uw.edu
 Christina Bandaragoda, cband@uw.edu
 Erkan Istanbulluoglu, erkani@uw.edu
 
 
-Washington Department of Natural Resources: 
+Washington Department of Natural Resources Contacts: 
 Recep Cakir, Recep.Cakir@dnr.wa.gov 
 Victoria Nelson: Victoria.Nelson@dnr.wa.gov
 Yuyang Zou, Yuyang.Zou@dnr.wa.gov
+
 The problem
 Geospatial tools and visualization is needed to develop a data and model integration pipeline for assessing landslide hazards.  This project is one component of multi-hazard (earthquake, flood, tsunami) assessment in watersheds spanning mountain peaks to coastal shores.  A common challenge in interpreting and validating distributed models is in comparing these data to direct observations on the ground. Modeling data of landslides for regional planning intentionally cover large regions and many landslides, incorporating different temporal and spatial sampling frequency and stochastic processes than observations derived from landslide inventories developed in the field. This kind of analysis requires geospatial tools to enable visualization, assessment of spatial statistics and extrapolation of spatial data linked to hierarchical relationships, such as downstream hydrologic impacts.  
 Landslide geohazards can be identified through numerous methods, which are generally grouped into quantitative (e.g., Hammond et al. 1992; Wu and Sidle 1995) and qualitative (e.g., Gupta and Joshi 1990; Carrara et al. 1991; Lee et al. 2007) approaches. Mechanistic process-based models based on limited equilibrium analysis can quantify the roles of topography, soils, vegetation, and hydrology (when coupled with a hydrologic model) in landsliding in quantitative forms (Montgomery and Dietrich 1994; Miller 1995; Pack et al. 1998).  Processed-based models are good for predicting the initiation of landslides even where landslide inventories are lacking, but missed predictions likely stem from parameter uncertainty and unrepresented processes in model structure implicitly captured in qualitative approaches. A common qualitative approach develops landslide susceptibility based on experts rating multiple landscape attributes.  These approaches provide general indices rather than quantified probabilities of relative landslide susceptibility applicable to the study location and cannot represent causal factors or triggering conditions that change in time (van Western et al. 2006). Both approaches rarely provide a probabilistic hazard in space and time, requisite for landslide risk assessments beneficial for planning and decision making (Smith 2013).
@@ -28,8 +29,9 @@ Numerical Modeling:  A newly-developed quantitative model of hillslope stability
 Research Questions
 Does a quantitative physically based model of landslide probability give spatially consistent results compared  to a qualitative analytical hierarchy process (AHP) to landslide susceptibility?  
 Can spatially distributed landslide hazard mapping (raster layers of triggers geospatial factors) be linked to stream networks (polylines) relevant to flood hazard?
+
 Sample data
-Data needed for this project includes topography, geology, vegetation, soil, and landform.
+For data needed for this project (includes topography, geology, vegetation, soil, and landform), join HydroShare [www.hydroshare.org]. Go to Collaborate, and ask to Join the Freshwater Group.
 All rasters must be sampled at the same grid size. For this particular work, we will be using a 10m grid scale for all raster datasets.
 Remote sensing data: LiDAR-derived bare earth DEM at 10m grid scale is provided. Slope can be derived from the DEM as dimensionless “tan theta.” 
 Topography: Stream network and flow paths can be derived from the bare earth DEM using TauDEM.
