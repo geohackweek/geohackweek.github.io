@@ -1,12 +1,12 @@
 ####Project Title: Data integration for multi-hazard risk assessment with a pilot study of landslides in Island County, WA
 
 ####Collaborators on this project:
-   ####University of Washington Contacts: 
+####University of Washington Contacts: 
 Ronda Strauch, rstrauch@uw.edu
 Christina Bandaragoda, cband@uw.edu
 Erkan Istanbulluoglu, erkani@uw.edu
 
-   ####Washington Department of Natural Resources Contacts: 
+####Washington Department of Natural Resources Contacts: 
 Recep Cakir, Recep.Cakir@dnr.wa.gov 
 Victoria Nelson: Victoria.Nelson@dnr.wa.gov
 Yuyang Zou, Yuyang.Zou@dnr.wa.gov
@@ -53,7 +53,7 @@ Landlab
 
 
 ####Background reading:
-*Saaty, R. W. (1987). The analytic hierarchy process—what it is and how it is used. Mathematical modelling, 9(3), 161-176.
+* Saaty, R. W. (1987). The analytic hierarchy process—what it is and how it is used. Mathematical modelling, 9(3), 161-176.
 Carrara, A., Cardinali, M., Detti, R., Guzzetti, F., Pasqui, V., & Reichenbach, P. (1991). GIS techniques and statistical models in evaluating landslide hazard. Earth surface processes and landforms, 16(5), 427-445.
 El-Ramly, H., Morgenstern, N. R., & Cruden, D. M. (2002). Probabilistic slope stability analysis for practice. Canadian Geotechnical Journal, 39(3), 665-683.
 Gupta, R. P., & Joshi, B. C. (1990). Landslide hazard zoning using the GIS approach—a case study from the Ramganga catchment, Himalayas. Engineering geology, 28(1-2), 119-131.
