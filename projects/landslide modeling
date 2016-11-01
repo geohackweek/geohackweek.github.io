@@ -29,7 +29,7 @@ Does a quantitative physically based model of landslide probability give spatial
 Can spatially distributed landslide hazard mapping (raster layers of triggers geospatial factors) be linked to stream networks (polylines) relevant to flood hazard?
 
 ####Sample data   
-For data needed for this project (includes topography, geology, vegetation, soil, and landform), join [HydroShare](www.hydroshare.org). Go to Collaborate, and ask to Join the [Freshwater](https://www.hydroshare.org/group/14).
+For data needed for this project (includes topography, geology, vegetation, soil, and landform), join [HydroShare](www.hydroshare.org). Go to Collaborate, and ask to Join the [Freshwater](https://www.hydroshare.org/group/14). Go to the Freshwaterhack of UW Geohackweek Collection Resource and find [Freshwater Project: Data integration for multi-hazard risk assessment](https://www.hydroshare.org/resource/ea41dd1b1239478aae68b7ecebc7d93f/)
 All rasters must be sampled at the same grid size. For this particular work, we will be using a 10m grid scale for all raster datasets.
 Remote sensing data: LiDAR-derived bare earth DEM at 10m grid scale is provided. Slope can be derived from the DEM as dimensionless “tan theta.” 
 Topography: Stream network and flow paths can be derived from the bare earth DEM using TauDEM.
