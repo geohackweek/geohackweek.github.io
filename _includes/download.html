@@ -149,6 +149,25 @@
                 }
             };
 
+            var tut_site = [
+                    {
+                        "id":1,
+                        "label":"Odegaard Undergraduate Library 136",
+                        "geometry":{
+                               "lat" : 47.6564729,
+                               "lng" : -122.3103597
+                        }
+                    },
+                    {
+                        "id":2,
+                        "label":"Anderson Hall (223 for GEE)",
+                        "geometry":{
+                               "lat" : 47.65174649999999,
+                               "lng" : -122.3075474
+                        }
+                    }
+                ];
+
             var eventLatLng = [eventLocation.geometry.lat, eventLocation.geometry.lng];
 
             var mapOptions = {
@@ -176,6 +195,18 @@
                 "<p style='font-size: 15px;'>"+ locations[i]['address']+"<br>"+
                 "<a href=tel:"+locations[i]['phone'].replace(/[^\w]+/g,'')+">"+ locations[i]['phone']+"</a><br>" +
                 "<a href="+locations[i]['directions']+">Direction to the event</a></p>";
+                marker.bindPopup(html).on('click', clickZoom);
+            }
+
+            for (var j = 0; j < tut_site.length; j++){
+                latlng = [tut_site[j]["geometry"]["lat"], tut_site[j]["geometry"]["lng"]];
+                marker = L.marker(latlng, {
+                    icon: L.icon.glyph({
+                        prefix:'mif',
+                        glyph: 'map2'
+                    })
+                }).addTo(uwmap);
+                html = "<h3 style='font-size: 20px; margin-bottom: 15px;'>" + tut_site[j]['label'] + "</h3>";
                 marker.bindPopup(html).on('click', clickZoom);
             }
 
