@@ -9,6 +9,7 @@ This folder contains information on existing and proposed geohackweek projects.
 | [King County Lidar](/projects/LiDAR King County) |   | Ben Hudson | #lidar |
 | [landslides](/projects/landslides)  | | Christina Bandaragoda | #landslides |
 | [Glacier mass balance](/projects/glaciers) |  | David Shean | #glacier |
+| [Outlet Glaciers](/projects/outlet_glaciers) | Jessica Scheick | TBD | #glacier |
 | Africa Climate | | | |   
 | Renewable Energy | | | |
 | Urban Heating | |  |  |
