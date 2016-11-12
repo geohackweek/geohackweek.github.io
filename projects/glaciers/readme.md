@@ -33,6 +33,9 @@ For the geohackweek, I propose that we pursue a regional analysis of mountain gl
 - CONUS glaciers 
 - Arctic glaciers and ice caps
 
+High Mountain Asia with political boundaries, hydro features, and labels:
+<a title="The author of the work and GLOBE and ETOPO1 (see above and the Source section) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ATibet_and_surrounding_areas_topographic_map_2.png"><img width="1024" alt="Tibet and surrounding areas topographic map 2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tibet_and_surrounding_areas_topographic_map_2.png/1024px-Tibet_and_surrounding_areas_topographic_map_2.png"/></a>
+
 Glacier polygons, repeat high-res stereo DEM coverage, and candidate study sites for High Mountain Asia:
 ![HMA map](./img/hma_wvdem_sites_sm.jpg)
 
