@@ -1,6 +1,11 @@
 ####Project Title: Data integration for multi-hazard risk assessment with a pilot study of landslides in Island County, WA
 
+
+[Hackpad page](https://hackpad.com/Landslides-SANXagD9oV0)
+
 ####Collaborators on this project:
+
+
 ####University of Washington Contacts: 
 Ronda Strauch, rstrauch@uw.edu
 Christina Bandaragoda, cband@uw.edu
