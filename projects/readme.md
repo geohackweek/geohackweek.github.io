@@ -10,10 +10,7 @@ This folder contains information on existing and proposed geohackweek projects.
 | [landslides](/projects/landslides)  | | Christina Bandaragoda | #landslides |
 | [Glacier mass balance](/projects/glaciers) |  | David Shean | #glacier |
 | [Outlet Glaciers](/projects/outlet_glaciers) | Jessica Scheick | TBD | #glacier |
-| Africa Climate | | | |   
-| Renewable Energy | | | |
-| Urban Heating | |  |  |
-
+| [Data Visualization](https://hackpad.com/Interactive-web-visualization-for-spatiotemporal-data-nLBOFmAi0dN) | Andre Perkins | TBD | #dataviz |
 
 # Project guidelines
 
