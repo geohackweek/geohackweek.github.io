@@ -10,7 +10,9 @@ This folder contains information on existing and proposed geohackweek projects.
 | [landslides](/projects/landslides)  | | Christina Bandaragoda | #landslides |
 | [Glacier mass balance](/projects/glaciers) |  | David Shean | #glacier |
 | [Outlet Glaciers](/projects/outlet_glaciers) | Jessica Scheick | TBD | #glacier |
-| [Data Visualization](https://hackpad.com/Interactive-web-visualization-for-spatiotemporal-data-nLBOFmAi0dN) | Andre Perkins | TBD | #dataviz |
+| [Data Visualization](https://hackpad.com/Interactive-web-visualization-for-spatiotemporal-data-nLBOFmAi0dN) | Andre Perkins | TBD | #dataviz 
+| [Time Series Analysis](https://github.com/geohackweek/timeserieshack) | Joel Masselink | Catherine Kuhn | #timeserieshack |
+
 
 # Project guidelines
 
