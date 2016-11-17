@@ -1,5 +1,7 @@
 # Glacierhack
 
+* [github](https://github.com/dshean/stereohack)
+
 ![HMA DEM mosaic](./img/khumbu_mos_8m_warp_fig_sm.jpg)
 
 Big glaciers. Big data. Big tools. Big results.
@@ -7,12 +9,8 @@ Big glaciers. Big data. Big tools. Big results.
 ## Collaborators on this project
 
 - Data science lead: [David Shean](https://github.com/dshean)
-- Project lead: you!
-- Vector lead: you!
-- Raster lead: you!
-- Other glacier data warriors:
-    - you!
-    - and you!
+- Project lead: Zach Lifton
+- Brad Bates
 
 ## The problem
 

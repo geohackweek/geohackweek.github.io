@@ -1,5 +1,11 @@
 ### Project Title: Comparing modeled and LiDAR-derived snow water equivalent spatial datasets
 
+- Data Science Lead: Nicoleta Cristea
+- Participants:
+   * Zhuoran Duan
+	 * Justin Pflug
+	 * Ryan Currier
+	
 #### The problem
 
 Many geospatial problems require an assessment of the spatial variability of environmental data. This is often used to explore the errors between modeled and observed geospatial fields. For example, we often need to know not only the mean difference between datasets, but how those differences vary across the landscape. In addition, just examining the spatial statistics in a geophysical field may reveal things about land surface physcial processes.

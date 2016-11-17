@@ -2,11 +2,9 @@
 Automating information extraction at marine terminating glaciers
 
 ## Collaborators:
-Project lead: Jessica Scheick
+Project lead: Jessica Scheick, Amaury Dehecq
 
-Data Science lead: ??
-
-Others: you!!
+Data Science lead: David Shean
 
 Disclosure: Certain elements and potential applications of this project were borne out of Jessica Scheick’s collaborations with Jakob Abermann and Eva Maetzler while an intern at Asiaq, Greenland Survey
 
