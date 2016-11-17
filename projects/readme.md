@@ -11,8 +11,8 @@ This folder contains information on existing and proposed geohackweek projects.
 | [Iceflow](/projects/iceflow) | Amaury Dehecq | David Shean | [#iceflow](https://geohackweek2016.slack.com/messages/iceflow/) |
 | [Data Visualization](https://hackpad.com/Interactive-web-visualization-for-spatiotemporal-data-nLBOFmAi0dN) | Andre Perkins | Ian Rose | [#dataviz](https://geohackweek2016.slack.com/messages/dataviz/) | 
 | [Time Series Analysis](https://github.com/geohackweek/timeserieshack) | Joel Masselink | Catherine Kuhn | [#timeserieshack](https://geohackweek2016.slack.com/messages/timeserieshack/) |
-| urban modeling | Anna Scott | Catherine Kuhn | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
-| renewable prospect | George Richardson | Ben Hudson | [#renewableprospect](https://geohackweek2016.slack.com/messages/renewableprospect/) |
+| [urban modeling](/projects/urban) | Anna Scott | Catherine Kuhn | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
+| [renewable prospect](/projects/remap) | George Richardson | Ben Hudson | [#renewableprospect](https://geohackweek2016.slack.com/messages/renewableprospect/) |
 
 
 # Project guidelines
