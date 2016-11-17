@@ -6,7 +6,6 @@ This folder contains information on existing and proposed geohackweek projects.
 |:------|:-----------|:-------------|:--------------|
 | [alpine hydrology](/projects/alpine hydrology) | Ryan Currier  | Nicoleta Cristea | #alpinehydrology  |
 | [groundwater hydrology and GRACE](/projects/groundwater hydrology and GRACE) | TBD | Christina Bandaragoda | #groundwater | 
-| [King County Lidar](/projects/LiDAR King County) |   | Ben Hudson | #lidar |
 | [landslides](/projects/landslides)  | | Christina Bandaragoda | #landslides |
 | [Glacier mass balance](/projects/glaciers) |  | David Shean | #glacier |
 | [Outlet Glaciers](/projects/outlet_glaciers) | Jessica Scheick | TBD | #glacier |
