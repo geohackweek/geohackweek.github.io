@@ -5,12 +5,14 @@ This folder contains information on existing and proposed geohackweek projects.
 | Project Name| Participant lead | Data Science Lead | slack channel |
 |:------|:-----------|:-------------|:--------------|
 | [alpine hydrology](/projects/alpine hydrology) | Ryan Currier  | Nicoleta Cristea | [#alpinehydrology](https://geohackweek2016.slack.com/messages/alpinehydrology/)  |
-| [groundwater hydrology and GRACE](/projects/groundwater hydrology and GRACE) | TBD | Christina Bandaragoda | [#ohwell](https://geohackweek2016.slack.com/messages/ohwell/) | 
+| [groundwater hydrology and GRACE](/projects/groundwater hydrology and GRACE) |  | Christina Bandaragoda | [#ohwell](https://geohackweek2016.slack.com/messages/ohwell/) | 
 | [landslides](/projects/landslides)  | | Christina Bandaragoda | [#landslides](https://geohackweek2016.slack.com/messages/landslides/) |
 | [Glacier mass balance](/projects/glaciers) | Zach Lifton | David Shean | [#stereohack](https://geohackweek2016.slack.com/messages/stereohack/) |
 | [Outlet Glaciers](/projects/outlet_glaciers) | Amaury Dehecq | David Shean | [#iceflow](https://geohackweek2016.slack.com/messages/iceflow/) |
 | [Data Visualization](https://hackpad.com/Interactive-web-visualization-for-spatiotemporal-data-nLBOFmAi0dN) | Andre Perkins | Ian Rose | [#dataviz](https://geohackweek2016.slack.com/messages/dataviz/) | 
 | [Time Series Analysis](https://github.com/geohackweek/timeserieshack) | Joel Masselink | Catherine Kuhn | [#timeserieshack](https://geohackweek2016.slack.com/messages/timeserieshack/) |
+| [urban modeling] | Anna Scott | Catherine Kuhn | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
+| [renewable prospect] | George Richardson | Ben Hudson | [#renewableprospect](https://geohackweek2016.slack.com/messages/renewableprospect/) |
 
 
 # Project guidelines
