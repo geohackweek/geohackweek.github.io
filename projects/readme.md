@@ -2,17 +2,17 @@
 
 This folder contains information on existing and proposed geohackweek projects. 
 
-| Project Name| Participant lead | Data Science Lead | slack channel |
+| Project Name | slack channel |
 |:------|:-----------|:-------------|:--------------|
-| [alpine hydrology](/projects/alpine hydrology) | Ryan Currier  | Nicoleta Cristea | [#alpinehydrology](https://geohackweek2016.slack.com/messages/alpinehydrology/)  |
-| [groundwater hydrology and GRACE](/projects/groundwater hydrology and GRACE) |  | Christina Bandaragoda | [#ohwell](https://geohackweek2016.slack.com/messages/ohwell/) | 
-| [landslides](/projects/landslides)  | | Christina Bandaragoda | [#landslides](https://geohackweek2016.slack.com/messages/landslides/) |
-| [Glacier mass balance](/projects/glaciermassbal) | Zach Lifton | David Shean | [#stereohack](https://geohackweek2016.slack.com/messages/stereohack/) |
-| [Iceflow](/projects/iceflow) | Amaury Dehecq | David Shean | [#iceflow](https://geohackweek2016.slack.com/messages/iceflow/) |
-| [Data Visualization](https://github.com/frodre/dataviz) | Andre Perkins | Ian Rose | [#dataviz](https://geohackweek2016.slack.com/messages/dataviz/) | 
-| [Time Series Analysis](https://github.com/geohackweek/timeserieshack) | Joel Masselink | Catherine Kuhn | [#timeserieshack](https://geohackweek2016.slack.com/messages/timeserieshack/) |
-| [urban modeling](https://github.com/xcitech/urbanhack2016) | Anna Scott | Catherine Kuhn | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
-| [renewable prospect](/projects/remap) | George Richardson | Ben Hudson | [#renewableprospect](https://geohackweek2016.slack.com/messages/renewableprospect/) |
+| [alpine hydrology](/projects/alpine hydrology) |  [#alpinehydrology](https://geohackweek2016.slack.com/messages/alpinehydrology/)  |
+| [groundwater hydrology and GRACE](/projects/groundwater hydrology and GRACE) | [#ohwell](https://geohackweek2016.slack.com/messages/ohwell/) | 
+| [landslides](/projects/landslides)  | [#landslides](https://geohackweek2016.slack.com/messages/landslides/) |
+| [Glacier mass balance](/projects/glaciermassbal) |  [#stereohack](https://geohackweek2016.slack.com/messages/stereohack/) |
+| [Iceflow](/projects/iceflow) | [#iceflow](https://geohackweek2016.slack.com/messages/iceflow/) |
+| [Data Visualization](https://github.com/frodre/dataviz) |  [#dataviz](https://geohackweek2016.slack.com/messages/dataviz/) | 
+| [Time Series Analysis](https://github.com/geohackweek/timeserieshack) | [#timeserieshack](https://geohackweek2016.slack.com/messages/timeserieshack/) |
+| [urban modeling](https://github.com/xcitech/urbanhack2016) | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
+| [renewable prospect](/projects/remap) | [#renewableprospect](https://geohackweek2016.slack.com/messages/renewableprospect/) |
 
 
 # Project guidelines
