@@ -3,7 +3,7 @@
 This folder contains information on existing and proposed geohackweek projects. 
 
 | Project Name | slack channel |
-|:------|:-----------|:-------------|:--------------|
+|:------|:-----------|
 | [alpine hydrology](/projects/alpine hydrology) |  [#alpinehydrology](https://geohackweek2016.slack.com/messages/alpinehydrology/)  |
 | [groundwater hydrology and GRACE](/projects/groundwater hydrology and GRACE) | [#ohwell](https://geohackweek2016.slack.com/messages/ohwell/) | 
 | [landslides](/projects/landslides)  | [#landslides](https://geohackweek2016.slack.com/messages/landslides/) |
