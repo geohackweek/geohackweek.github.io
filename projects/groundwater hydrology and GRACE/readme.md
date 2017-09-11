@@ -3,7 +3,10 @@
 
 #### The problem
 
-A common challenge in interpreting and validating remote sensing data is in comparing these data to direct observations on the ground. Often remotely sensed data will cover large regions and have different temporal and spatial sampling frequency than point observations derived in the field. This kind of analysis requires geospatial tools to enable resampling, assessment of spatial statistics and extrapolation of point data to broader regions.
+If the well is dry, is the problem due to hydrology or humans?  Kenya, Uganda, and Tanzania are three countries with an extensive well dataset.  What are the spatial statistics of failures? Are functioning/non-functioning wells scattered randomly, or does failure follow a hydrologic pattern? 
+
+A common challenge in interpreting and validating remote sensing data is in comparing these data to direct observations on the ground. Often remotely sensed data will cover large regions and have different temporal and spatial sampling frequency than point observations derived in the field. This kind of analysis requires geospatial tools to enable resampling, assessment of spatial statistics and extrapolation of point data to broader regions.  In Geohackweek 2016, our project team ('Oh Well') left code to explore this problem on HydroShare ([Freshwaterhack: Groundwater Resources and GRACE](https://www.hydroshare.org/resource/8f74613935e84dcb9e4958229778f267/)).  We've got a great start, but there is more to be done!  
+
 
 #### Application Example
 
@@ -56,7 +59,13 @@ Comparison of point and array datasets is often carried out using GIS tools.  Pe
 
 #### Potential tools:
 
-* GeoPandas
+* See sample code and libraries used in ([Freshwaterhack: Groundwater Resources and GRACE](https://www.hydroshare.org/resource/8f74613935e84dcb9e4958229778f267/)).  
+
+1. Go to www.hydroshare.org
+2. Collaborate
+3. Ask to join the Freshwater Group
+4. Go to the Resources tab and find the Groundwater project.  This is a Collection of public data, active research that is pending publication, and Geohackweek project work.  We hope that the information and tools will expand to advance our knowlegde on the important topic of groundwater availability. 
+
 
 #### Background reading: 
 * Bonsor, H. C., Oates, N., Chilton, P. J., Carter, R. C., Casey, V., Macdonald, A. M., … Bennie, M. (2015). UPGro Catalyst Grant Report - A Hidden Crisis: strengthening the evidence base on the sustainability of rural groundwater supplies – results from a pilot study in Uganda.
