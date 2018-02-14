@@ -1,0 +1,26 @@
+<!-- Four -->
+<section id="four" class="wrapper style2 special">
+    <div class="inner">
+        <header class="major">
+            <h2>Location</h2>
+        </header>
+        <div id="map"></div>
+        <ul class="icons mapdir">
+            <li><a href="https://maps.google.com/?saddr=Current+Location&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA&driving" class="icon fa-car"><span class="label">Drive to Geohackweek</span></a></li>
+            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=r&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA&mode=transit" class="icon fa-bus"><span class="label">Public Transit to Geohackweek</span></a></li>
+            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=w&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA" class="icon fa-street-view"><span class="label">Walk to Geohackweek</span></a></li>
+            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=b&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA&mode=bicycling" class="icon fa-bicycle"><span class="label">Bike to Geohackweek</span></a></li>
+        </ul>
+    </div>
+</section>
+<script type="application/javascript">
+    var map = L.map('map').setView([47.65338269999999, -122.3118654], 12);
+
+    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    L.marker([47.65338269999999, -122.3118654]).addTo(map)
+        .bindPopup('eScience Institute <br/> WRF Data Science Studio, UW Physics/Astronomy Tower, 6th Floor, Campus Box 351570, 3910 15th Ave NE, Seattle, WA 98195')
+        .openPopup();
+</script>
