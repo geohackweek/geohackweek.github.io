@@ -1,19 +1,23 @@
-    <!-- Intro Header -->
-    <header class="intro">
-        <div class="intro-body">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
-                        <h1 class="brand-heading">Geohackweek</h1>
-                        <p class="intro-text"><h2>Workshop on geospatial data science</h2></p>
-                        <p>University of Washington eScience Institute</p>
-                        <p>November 14-18, 2016</p>
-                        <p>Click <a href="https://geohackweek.github.io/ghw2017">HERE</a> to access the 2017 Geohackweek page!</p>
-                        <a href="#about" class="btn btn-circle page-scroll">
-                            <i class="fa fa-angle-double-down animated"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+
+	<!-- Header -->
+	<header id="header" {% if page.layout == 'default' %} class="alt" {% endif %}>
+		<h1><a href="{{ "" | absolute_url }}/">Spectral</a></h1>
+		<nav id="nav">
+			<ul>
+				<li class="special">
+					<a href="#menu" class="menuToggle"><span>Menu</span></a>
+					<div id="menu">
+						<ul>
+							{% for page in site.pages %} {% if page.layout == "default" %}
+							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "page" %}
+							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+							{% endif %} {% endfor %}
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</nav>
+	</header>

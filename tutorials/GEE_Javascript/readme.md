@@ -1,1 +1,0 @@
-# Tutorials on Google Earth Engine, Javascript API

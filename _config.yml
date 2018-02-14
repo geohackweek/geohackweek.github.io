@@ -1,34 +1,28 @@
 # Site settings
-title: Geohackweek
-email: arendta@uw.edu
-url: https://geohackweek.github.io
-description: "A workshop and hackathon in geospatial data science at the University of Washington eScience Institute"
-encoding: UTF-8
+title: Spectral
+email: youremailaddress@gmail.com
+description: The Jekyll version of the Spectral theme by HTML5 UP.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
-# Google services
-google_analytics: UA—77504214-2
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 3
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#444444'
-  links: '#e8e3d3'
+# Misc settings
+featured-image-source:
 
-# Footer settings
-footer: Arendt, Anthony UW eScience Institute
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/search?q=%23geohackweek&src=typd
-  #- title: facebook
-  #  url:
-  #- title: stack-overflow
-  #  url: http://stackoverflow.com/questions/tagged/jekyll
-  #- title: bitbucket
-  #  url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/geohackweek
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
-permalink: pretty
