@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Generic
+permalink: generic.html
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---
 

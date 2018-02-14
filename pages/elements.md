@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Elements
+permalink: elements.md
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---
 

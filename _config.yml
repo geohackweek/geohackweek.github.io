@@ -1,7 +1,7 @@
 # Site settings
-title: Spectral
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Spectral theme by HTML5 UP.
+title: Geohackweek 2018
+email: landungs@uw.edu
+description: Workshop On Geospatial Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -15,14 +15,16 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/geohackweek
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+slack_url: https://geohackweek2018.slack.com
+twitter_url:
 
 # Build settings
 markdown: kramdown
+
+pages: "pages"
