@@ -23,6 +23,7 @@ linkedin_url:
 pinterest_url:
 slack_url: https://geohackweek2018.slack.com
 twitter_url:
+email_url: geohack@uw.edu
 
 # Build settings
 markdown: kramdown

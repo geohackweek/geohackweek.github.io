@@ -3822,3 +3822,66 @@
 .icons.mapdir {
 	font-size: 20px;
 }
+
+/* Instructor */
+.instructor-row {
+	display: table;
+}
+.instructor {
+	max-width: 200px;
+	display: table-cell;
+	padding: 10px;
+}
+
+/* Three columns side by side */
+.team-column {
+	float: left;
+	width: 33.3%;
+	margin-bottom: 16px;
+	padding: 0 8px;
+}
+
+/* Display the columns below each other instead of side by side on small screens */
+@media (max-width: 650px) {
+	.team-column {
+		width: 100%;
+		display: block;
+	}
+}
+
+/* Add some shadows to create a card effect */
+.team-card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Some left and right padding inside the container */
+.team-container {
+	padding: 0 16px;
+}
+
+/* Clear floats */
+.team-container::after, .team-row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.team-title {
+	color: grey;
+}
+
+/*.button {*/
+	/*border: none;*/
+	/*outline: 0;*/
+	/*display: inline-block;*/
+	/*padding: 8px;*/
+	/*color: white;*/
+	/*background-color: #000;*/
+	/*text-align: center;*/
+	/*cursor: pointer;*/
+	/*width: 100%;*/
+/*}*/
+
+/*.button:hover {*/
+	/*background-color: #555;*/
+/*}*/
