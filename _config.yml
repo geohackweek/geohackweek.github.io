@@ -1,7 +1,9 @@
 # Site settings
 title: Geohackweek 2018
 email: landungs@uw.edu
-description: Workshop On Geospatial Data Science
+description: Workshop On Geospatial Data Science <br>
+             University of Washington eScience Institute <br>
+             Sept 10 - 14, 2018
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
