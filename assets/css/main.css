@@ -3885,3 +3885,33 @@
 /*.button:hover {*/
 	/*background-color: #555;*/
 /*}*/
+
+/* Sponsors */
+.sponsors {
+    background-color: white;
+}
+
+.sponsors-row {
+	margin: 10px 0 10px 0;
+	height: 100%;
+    padding: 0;
+}
+
+.sponsors-logo {
+	display: inline-block;
+    max-width: 100%;
+	min-width: 269px;
+    width: 30%;
+	height: 200px;
+	margin: 10px;
+}
+
+.sponsors-logo > img {
+	max-width:100%;
+	max-height:100%;
+	margin: auto;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	display: block;
+}
