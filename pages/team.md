@@ -41,8 +41,8 @@ team:
     github_user: jhamman
 
   - name: David Shean
-    title: Researcher Associate
-    affiliate: APL
+    title: Assistant Professor
+    affiliate: Civil and Environmental Engineering
     image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
     github_user: dshean
 
