@@ -19,25 +19,29 @@
         <section class="wrapper style5">
             <div class="inner">
                 {% if page.team %}
+                    {% for row in page.team %}
                     <div class="team-row">
-                        {% for person in page.team %}
+                        {% for person in row %}
                         <div class="team-column">
-                            <div class="team-card">
-                                <img src="{{ person.image_url }}" alt="{{ person.name }}" style="width:100%">
-                                <div class="team-container">
-                                    <h2>{{ person.name }}</h2>
-                                    <p class="team-title">{{ person.title }}</p>
-                                    <p>{{ person.affiliate }}</p>
-                                    {% if person.github_user %}
-                                        <p>
-                                            <a href="https://github.com/{{ person.github_user }}" class="icon fa-github"></a>
-                                        </p>
-                                    {% endif %}
+                            <figure class="team-card">
+                                <div class="profile-image">
+                                    <img src="{{ person.image_url }}" alt="{{ person.name }}" />
                                 </div>
-                            </div>
+                                <figcaption>
+                                    <h3>{{ person.name }}</h3>
+                                    <h5>{{ person.title }}</h5>
+                                    <h5>{{ person.affiliate }}</h5>
+                                    <div class="icons">
+                                        {% if person.github_user %}
+                                        <a href="https://github.com/{{ person.github_user }}" class="icon fa-github"></a>
+                                        {% endif %}
+                                    </div>
+                                </figcaption>
+                            </figure>
                         </div>
                         {% endfor %}
                     </div>
+                    {% endfor %}
                 {% else %}
                     {{ content }}
                 {% endif %}

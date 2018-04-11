@@ -3852,6 +3852,68 @@
 /* Add some shadows to create a card effect */
 .team-card {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+	margin: 8px;
+	min-width: 250px;
+	max-width: 310px;
+	width: 100%;
+	background-color: #ffffff;
+	color: #2B2B2B;
+	text-align: center;
+	font-size: 16px;
+}
+
+.team-card * {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.team-card .profile-image {
+	padding: 15% 10% 0;
+}
+
+.team-card .profile-image img {
+	vertical-align: top;
+	position: relative;
+	border-radius: 50%;
+	max-width: 70%;
+}
+
+.team-card figcaption {
+	padding: 5% 10% 15%;
+}
+
+.team-card h3 {
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+	margin: 3px 0;
+}
+
+.team-card h5 {
+	font-weight: 400;
+	margin: 0;
+	text-transform: uppercase;
+	color: #888;
+	letter-spacing: 1px;
+}
+
+.team-card .icons i {
+	color: #999;
+	display: inline-block;
+	margin-right: 5px;
+	font-size: 1.5em;
+}
+
+.team-card .icons i:hover {
+	color: #555;
+}
+
+.team-card .icons i a {
+	text-decoration: none;
 }
 
 /* Some left and right padding inside the container */
@@ -3871,37 +3933,37 @@
 }
 
 /*.button {*/
-	/*border: none;*/
-	/*outline: 0;*/
-	/*display: inline-block;*/
-	/*padding: 8px;*/
-	/*color: white;*/
-	/*background-color: #000;*/
-	/*text-align: center;*/
-	/*cursor: pointer;*/
-	/*width: 100%;*/
+/*border: none;*/
+/*outline: 0;*/
+/*display: inline-block;*/
+/*padding: 8px;*/
+/*color: white;*/
+/*background-color: #000;*/
+/*text-align: center;*/
+/*cursor: pointer;*/
+/*width: 100%;*/
 /*}*/
 
 /*.button:hover {*/
-	/*background-color: #555;*/
+/*background-color: #555;*/
 /*}*/
 
 /* Sponsors */
 .sponsors {
-    background-color: white;
+	background-color: white;
 }
 
 .sponsors-row {
 	margin: 10px 0 10px 0;
 	height: 100%;
-    padding: 0;
+	padding: 0;
 }
 
 .sponsors-logo {
 	display: inline-block;
-    max-width: 100%;
+	max-width: 100%;
 	min-width: 269px;
-    width: 30%;
+	width: 30%;
 	height: 200px;
 	margin: 10px;
 }
@@ -3914,4 +3976,9 @@
 	top: 50%;
 	transform: translateY(-50%);
 	display: block;
+}
+
+a.icon-link {
+	border-bottom: none;
+
 }
