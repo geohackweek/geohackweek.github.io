@@ -87,6 +87,13 @@ team:
       affiliate: Oregon State University
       image_url: https://geohackweek.github.io/ghw2017/images/1208492.jpeg
 
+
+  - - name: Friedrich Knuth
+      title: Ph.D. Student
+      affiliate: Civil and Environmental Engineering
+      image_url: /assets/images/friedrich.jpg
+      github_user: friedrichknuth
+
     - name: Tony Cannistra
       title: Doctoral Student
       affiliate: eScience + Department of Biology
