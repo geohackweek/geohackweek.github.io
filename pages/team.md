@@ -86,4 +86,10 @@ team:
       title: Postdoctoral Fellow
       affiliate: Oregon State University
       image_url: https://geohackweek.github.io/ghw2017/images/1208492.jpeg
+
+    - name: Tony Cannistra
+      title: Doctoral Student
+      affiliate: eScience + Department of Biology
+      image_url: https://geohackweek.github.io/ghw2017/images/Tony_c.jpg
+
 ---
