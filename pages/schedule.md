@@ -31,7 +31,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>9:00 - 9:30 AM</td>
+<td>8:30 - 9:15 AM</td>
 
 <td>Welcome to Geohackweek</td>
 
@@ -41,23 +41,18 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>9:30 - 10:15 AM</td>
+<td>9:15 - 10:30 AM</td>
 
 <td>
-<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
-<ul>
-    <li>Python ecosystem</li>
-    <li>conda</li>
-</ul>
-</td>
+Mapping the Python / geospatial ecosystem </td>
 
-<td>Don Setiawan</td>
+<td>Everyone</td>
 
 </tr>
 
 <tr>
 
-<td>10:15 - 10:30 AM</td>
+<td>10:30 - 10:45 AM</td>
 
 <td>Coffee Break</td>
 
@@ -67,27 +62,11 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>10:30 AM - 11:30 AM</td>
+<td>10:45 AM - 12:00 AM</td>
 
-<td>
-<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
-<ul>
-    <li>Jupyter Notebooks</li>
-    <li>Cloud environments for tutorial</li>
-</ul>
-</td>
+<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
 
-<td>Amanda Tan, Catherine Kuhn</td>
-
-</tr>
-
-<tr>
-
-<td>11:30 AM - 12:00 PM</td>
-
-<td>Project Intro</td>
-
-<td>Anthony Arendt</td>
+<td>Ben Weinstein</td>
 
 </tr>
 
@@ -103,19 +82,25 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>1:00 PM - 2:00 AM</td>
+<td>1:00 PM - 1:30 PM</td>
 
-<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
+<td>
+<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
+<ul>
+    <li>Jupyter Notebooks</li>
+    <li>Cloud environments for tutorial</li>
+</ul>
+</td>
 
-<td>Ben Weinstein</td>
+<td>Amanda Tan, Catherine Kuhn</td>
 
 </tr>
 
 <tr>
 
-<td>2:00 PM - 3:00 PM</td>
+<td>1:30 PM - 2:30 PM</td>
 
-<td>Project Pitching</td>
+<td>Project Introductions and Pitching</td>
 
 <td>Everyone</td>
 
@@ -123,7 +108,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>2:00 PM - 5:00 PM</td>
+<td>2:30 PM - 5:00 PM</td>
 
 <td>Project Work</td>
 
@@ -163,7 +148,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>9:00 AM to 10:15 AM</td>
+<td>8:30 AM to 10:00 AM</td>
 
 <td><a href="https://geohackweek.github.io/vector/">Vector tools</a></td>
 
@@ -173,7 +158,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>10:15 - 10:30 AM</td>
+<td>10:00 - 10:30 AM</td>
 
 <td>Coffee Break</td>
 
@@ -183,7 +168,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>10:30 AM to 11:45 AM</td>
+<td>10:30 AM to 12:00 PM</td>
 
 <td><a href="https://geohackweek.github.io/raster/">Raster tools</a></td>
 
@@ -253,17 +238,17 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>9:00 AM to 10:15 AM</td>
+<td> 8:30 AM to 9:45 AM</td>
 
-<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a></td>
+<td> Geostatistics </td>
 
-<td>Jill Deines, Catherine Kuhn</td>
+<td> TBD </td>
 
 </tr>
 
 <tr>
 
-<td>10:15 - 10:30 AM</td>
+<td>9:45 to 10:15 AM</td>
 
 <td>Coffee Break</td>
 
@@ -271,23 +256,13 @@ description: Current Tentative schedule
 
 </tr>
 
-<tr>
+<tr> 
 
-<td>10:30 AM - 11:00 AM</td>
+<td> 10:15 AM to 12:00 PM </td>
 
-<td>Geospatial analysis with Google Cloud Datalab</td>
+<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a></td>
 
-<td>Tim Swast (Google)</td>
-
-</tr>
-
-<tr>
-
-<td>11:00 AM - 12:00 PM</td>
-
-<td>Geospatial analysis with Amazon Web Services</td>
-
-<td>Mark Korver (Amazon Web Services)</td>
+<td>Catherine Kuhn</td>
 
 </tr>
 
@@ -307,7 +282,7 @@ description: Current Tentative schedule
 
 <td>Industry Lightning Talks</td>
 
-<td>David Fisher (Natural Capital Project) Sarah Battersby (Tableau)</td>
+<td> TBD </td>
 
 </tr>
 
@@ -367,7 +342,7 @@ description: Current Tentative schedule
 
 <td><a href="https://geohackweek.github.io/visualization/">Visualization</a></td>
 
-<td>Randy Leveque, Tony Cannistra</td>
+<td>Tony Cannistra</td>
 
 </tr>
 
@@ -387,7 +362,7 @@ description: Current Tentative schedule
 
 <td><a href="https://github.com/geohackweek/tutorial_contents/blob/master/nDarrays/notebooks/ndarrays_intro.ipynb">nD Arrays</a></td>
 
-<td>Joe Hamman, Anthony Arendt</td>
+<td>Joe Hamman</td>
 
 </tr>
 
@@ -403,17 +378,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>1:00 PM - 1:30 PM</td>
-
-<td>Cartographic Methods</td>
-
-<td>Sarah Battersby</td>
-
-</tr>
-
-<tr>
-
-<td>1:30 PM - 5:00 PM</td>
+<td>1:00 PM - 5:00 PM</td>
 
 <td>Project Work</td>
 
