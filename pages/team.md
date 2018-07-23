@@ -99,4 +99,9 @@ team:
       affiliate: eScience + Department of Biology
       image_url: https://geohackweek.github.io/ghw2017/images/Tony_c.jpg
 
+    - name: Bernease Herman
+      title: Data Scientist
+      affiliate: eScience
+      image_url: /assets/images/bernease.png
+      github_user: bernease
 ---
