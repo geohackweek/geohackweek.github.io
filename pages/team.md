@@ -62,11 +62,6 @@ team:
       image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
       github_user: scottyhq
 
-    - name: Allison Smith
-      title: Postdoctoral Researcher
-      affiliate: eScience & Oceanography
-      image_url: https://geohackweek.github.io/ghw2017/images/Bio_Allison-Smith.jpg
-
     - name: Catherine Kuhn
       title: Doctoral Student
       affiliate: School of Forest & Environmental Sciences
@@ -86,8 +81,7 @@ team:
       title: Postdoctoral Fellow
       affiliate: Oregon State University
       image_url: https://geohackweek.github.io/ghw2017/images/1208492.jpeg
-
-
+      
   - - name: Friedrich Knuth
       title: Ph.D. Student
       affiliate: Civil and Environmental Engineering
@@ -104,4 +98,11 @@ team:
       affiliate: eScience
       image_url: /assets/images/bernease.png
       github_user: bernease
+
+    - name: Shay Strong 
+      title: Director of Data Science and Machine Learning
+      affiliate: <a href="https://www.eagleview.com">EagleView</a>
+      image_url: /assets/images/shay.jpg
+      github_user: shaystrong
+    
 ---
