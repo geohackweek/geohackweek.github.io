@@ -66,11 +66,13 @@ team:
       title: Doctoral Student
       affiliate: School of Forest & Environmental Sciences
       image_url: https://geohackweek.github.io/ghw2017/images/Catherine.jpeg
+      github_user: catherinekuhn
 
   - - name: Christina Bandaragoda
       title: Research Associate
       affiliate: Civil and Environmental Engineering
       image_url: https://geohackweek.github.io/ghw2017/images/cband.jpg
+      github_user: ChristinaB
 
     - name: James Douglass
       title: Software Lead
@@ -81,6 +83,7 @@ team:
       title: Postdoctoral Fellow
       affiliate: Oregon State University
       image_url: https://geohackweek.github.io/ghw2017/images/1208492.jpeg
+      github_user: bw4sz
       
   - - name: Friedrich Knuth
       title: Ph.D. Student
@@ -92,6 +95,7 @@ team:
       title: Doctoral Student
       affiliate: eScience + Department of Biology
       image_url: https://geohackweek.github.io/ghw2017/images/Tony_c.jpg
+      github_user: acannistra
 
     - name: Bernease Herman
       title: Data Scientist
