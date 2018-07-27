@@ -152,7 +152,7 @@ Mapping the Python / geospatial ecosystem </td>
 
 <td><a href="https://geohackweek.github.io/vector/">Vector tools</a></td>
 
-<td>Emilio Mayorga, Don Setiawan</td>
+<td>Emilio Mayorga</td>
 
 </tr>
 
@@ -198,9 +198,29 @@ Mapping the Python / geospatial ecosystem </td>
 
 <tr>
 
-<td>1:30 PM - 5:00 PM</td>
+<td>1:30 PM - 4:30 PM</td>
 
 <td>Project Work</td>
+
+<td>Everyone</td>
+
+</tr>
+
+<tr>
+
+<td>4:30 PM - 5:15 PM</td>
+
+<td>Happy Hour, School of Forestry and Environmental Sciences</td>
+
+<td>Everyone</td>
+
+</tr>
+
+<tr>
+
+<td>5:15 PM - 6:00 PM</td>
+
+<td>Presentation by <a href="https://glad.umd.edu/team/matthew-hansen">Matt Hansen</a>, Global Land Analysis and Discovery</td>
 
 <td>Everyone</td>
 
@@ -240,9 +260,9 @@ Mapping the Python / geospatial ecosystem </td>
 
 <td> 8:30 AM to 9:45 AM</td>
 
-<td> Geostatistics </td>
+<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> </td>
 
-<td> TBD </td>
+<td> Bernease Herman and Shay Strong </td>
 
 </tr>
 
