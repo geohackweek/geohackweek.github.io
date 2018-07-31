@@ -68,13 +68,13 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/Catherine.jpeg
       github_user: catherinekuhn
 
-  - - name: Christina Bandaragoda
+    - name: Christina Bandaragoda
       title: Research Associate
       affiliate: Civil and Environmental Engineering
       image_url: https://geohackweek.github.io/ghw2017/images/cband.jpg
       github_user: ChristinaB
 
-    - name: James Douglass
+  - - name: James Douglass
       title: Software Lead
       affiliate: Natural Capital Project
       image_url: https://geohackweek.github.io/ghw2017/images/4583897.jpeg
@@ -85,13 +85,13 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/1208492.jpeg
       github_user: bw4sz
       
-  - - name: Friedrich Knuth
+    - name: Friedrich Knuth
       title: Ph.D. Student
       affiliate: Civil and Environmental Engineering
       image_url: /assets/images/friedrich.jpg
       github_user: friedrichknuth
 
-    - name: Tony Cannistra
+  - - name: Tony Cannistra
       title: Doctoral Student
       affiliate: eScience + Department of Biology
       image_url: https://geohackweek.github.io/ghw2017/images/Tony_c.jpg
