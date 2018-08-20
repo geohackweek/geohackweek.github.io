@@ -81,6 +81,8 @@ description: Current Tentative schedule
 
 <tr>
 
+<td>1:00 PM to 2:00 PM</td>
+
 <td>
 <a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
 <ul>
@@ -95,7 +97,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>1:30 PM - 2:30 PM</td>
+<td>2:00 PM - 2:30 PM</td>
 
 <td>Project Introductions and Pitching</td>
 
