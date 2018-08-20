@@ -63,7 +63,7 @@ description: Current Tentative schedule
 
 <td>11:00 AM - 12:00 AM</td>
 
-<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub: Part 1</a></td>
+<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub: Part 2</a></td>
 
 <td>Ben Weinstein</td>
 
