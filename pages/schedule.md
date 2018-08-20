@@ -31,7 +31,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>8:30 - 9:00 AM</td>
+<td>8:30 - 9:15 AM</td>
 
 <td>Welcome to Geohackweek</td>
 
@@ -41,9 +41,9 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>9:00 - 10:30 AM</td>
+<td>9:15 - 10:30 AM</td>
 
-<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
+<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub: Part 1</a></td>
 
 <td>Ben Weinstein</td>
 
@@ -51,9 +51,9 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>10:30 - 10:45 AM</td>
+<td>10:30 - 11:00 AM</td>
 
-<td>Coffee Break</td>
+<td>Icebreaker activity and coffee break</td>
 
 <td></td>
 
@@ -61,21 +61,15 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>10:45 AM - 12:00 AM</td>
+<td>11:00 AM - 12:00 AM</td>
 
-<td>
-<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
-<ul>
-    <li>Jupyter Notebooks</li>
-    <li>Cloud environments for tutorial</li>
-</ul>
-</td>
+<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub: Part 1</a></td>
 
-<td>Amanda Tan, Don Setiawan</td>
+<td>Ben Weinstein</td>
 
 </tr>
 
-<tr>
+</tr>
 
 <td>12:00 PM - 1:00 PM</td>
 
@@ -87,11 +81,15 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>1:00 PM - 1:30 PM</td>
+<td>
+<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
+<ul>
+    <li>Jupyter Notebooks</li>
+    <li>Cloud environments for tutorial</li>
+</ul>
+</td>
 
-<td> Mapping the Python / geospatial ecosystem </td>
-
-<td>Everyone</td>
+<td>Amanda Tan, Don Setiawan</td>
 
 </tr>
 
