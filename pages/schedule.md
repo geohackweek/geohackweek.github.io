@@ -35,7 +35,7 @@ description: Current Tentative schedule
 
 <td>Welcome to Geohackweek</td>
 
-<td>Anthony Arendt</td>
+<td>Anthony Arendt, Catherine Kuhn</td>
 
 </tr>
 
