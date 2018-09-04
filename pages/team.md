@@ -69,9 +69,9 @@ team:
       github_user: catherinekuhn
 
     - name: Christina Bandaragoda
-      title: Research Associate
+      title: Research Scientist
       affiliate: Civil and Environmental Engineering
-      image_url: https://geohackweek.github.io/ghw2017/images/cband.jpg
+      image_url: https://avatars2.githubusercontent.com/u/4108369?s=400&v=4
       github_user: ChristinaB
 
   - - name: James Douglass
