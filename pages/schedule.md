@@ -35,7 +35,7 @@ description: Current Tentative schedule
 
 <td>Welcome to Geohackweek</td>
 
-<td>Anthony Arendt, Catherine Kuhn</td>
+<td>geohackweek adminstrative team </td>
 
 </tr>
 
@@ -225,16 +225,6 @@ description: Current Tentative schedule
 
 </tr>
 
-<tr>
-
-<td>Studio Open Until 11 PM (optional)</td>
-
-<td>Hackathon Sessions</td>
-
-<td></td>
-
-</tr>
-
 </tbody>
 
 </table>
@@ -297,17 +287,17 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>1:00 - 1:30 PM</td>
+<td>1:00 - 1:15 PM</td>
 
-<td>Industry Lightning Talks</td>
+<td>Group Photo </td>
 
-<td> TBD </td>
+<td> Everyone </td>
 
 </tr>
 
 <tr>
 
-<td>1:30 PM - 4:30 PM</td>
+<td>1:15 PM - 4:30 PM</td>
 
 <td>Project Work</td>
 
@@ -327,7 +317,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>Studio Open Until 11 PM (optional)</td>
+<td> South Campus Center open until 7 PM (optional)</td>
 
 <td>Hackathon Sessions</td>
 
@@ -407,7 +397,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>Studio Open Until 11 PM (optional)</td>
+<td>South Campus Center open Until 7 PM (optional)</td>
 
 <td>Hackathon Sessions</td>
 
@@ -437,7 +427,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>Morning</td>
+<td>8:30 am - 10:00 AM </td>
 
 <td>Open Tutorial Session</td>
 
@@ -445,13 +435,24 @@ description: Current Tentative schedule
 
 </tr>
 
+
 <tr>
 
-<td>Morning</td>
+<td>10:00 - 10:15 AM</td>
 
-<td>Reproducible Research</td>
+<td>Coffee Break</td>
 
-<td>David Beck</td>
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>10:15 AM - 12:00 PM </td>
+
+<td>Best Practices in Reproducible Research</td>
+
+<td>David Beck, Don Setiawan</td>
 
 </tr>
 
