@@ -2,10 +2,13 @@
 layout: page
 title: Schedule
 permalink: schedule.html
-description: Current Tentative schedule
+description: Schedule
 ---
+## Pre-event tutorial
 
-## Tentative Schedule
+Please work through this <a href ="https://geohackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of geohackweek!
+
+## Schedule
 
 - [Monday](#monday)
 - [Tuesday](#tuesday)
@@ -209,7 +212,7 @@ description: Current Tentative schedule
 
 <td>4:30 PM - 5:15 PM</td>
 
-<td>Happy Hour, School of Forestry and Environmental Sciences</td>
+<td>Happy Hour, School of Forestry and Environmental Sciences Anderson Hall Room 207</td>
 
 <td>Everyone</td>
 
@@ -219,7 +222,7 @@ description: Current Tentative schedule
 
 <td>5:15 PM - 6:00 PM</td>
 
-<td>Presentation by <a href="https://glad.umd.edu/team/matthew-hansen">Matt Hansen</a>, Global Land Analysis and Discovery</td>
+<td>Presentation by <a href="https://glad.umd.edu/team/matthew-hansen">Matt Hansen</a>, Global Land Analysis and Discovery (Anderson Hall Room 223)</td>
 
 <td>Everyone</td>
 
