@@ -6,13 +6,16 @@
         </header>
         <div id="map"></div>
         <ul class="icons mapdir">
-            <li><a href="https://maps.google.com/?saddr=Current+Location&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA&driving" class="icon fa-car"><span class="label">Drive to Geohackweek</span></a></li>
-            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=r&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA&mode=transit" class="icon fa-bus"><span class="label">Public Transit to Geohackweek</span></a></li>
-            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=w&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA" class="icon fa-street-view"><span class="label">Walk to Geohackweek</span></a></li>
-            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=b&daddr=Odegaard+Undergraduate+Library,+George+Washington+Lane+Northeast,+Seattle,+WA&mode=bicycling" class="icon fa-bicycle"><span class="label">Bike to Geohackweek</span></a></li>
+            <li><a href="https://maps.google.com/?saddr=Current+Location&daddr=UW+South+Campus+Center,+Seattle,+WA&driving" class="icon fa-car"><span class="label">Drive to Geohackweek</span></a></li>
+            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=r&daddr=UW+South+Campus+Center,+Seattle,+WA&mode=transit" class="icon fa-bus"><span class="label">Public Transit to Geohackweek</span></a></li>
+            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=w&daddr=UW+South+Campus+Center,+Seattle,+WA" class="icon fa-street-view"><span class="label">Walk to Geohackweek</span></a></li>
+            <li><a href="https://maps.google.com/?saddr=Current+Location&dirflg=b&daddr=UW+South+Campus+Center,+Seattle,+WA&mode=bicycling" class="icon fa-bicycle"><span class="label">Bike to Geohackweek</span></a></li>
         </ul>
     </div>
 </section>
+
+https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975
+
 <script type="application/javascript">
     var map = L.map('map').setView([47.65338269999999, -122.3118654], 12);
 
@@ -20,7 +23,7 @@
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-    L.marker([47.65338269999999, -122.3118654]).addTo(map)
-        .bindPopup('eScience Institute <br/> WRF Data Science Studio, UW Physics/Astronomy Tower, 6th Floor, Campus Box 351570, 3910 15th Ave NE, Seattle, WA 98195')
+    L.marker([47.6495125, -122.3129862]).addTo(map)
+        .bindPopup('South Campus Center <br/> Room 221, 1601 NE Columbia Rd, Seattle, WA 98195')
         .openPopup();
 </script>
