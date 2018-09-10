@@ -398,6 +398,8 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 </tr>
 
+<tr>
+
 <td> 2:00 PM - 3:00 PM</td>
 
 <td>Industry Panel</td>
