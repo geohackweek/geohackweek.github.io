@@ -72,7 +72,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 </tr>
 
-</tr>
+<tr>
 
 <td>12:00 PM - 1:00 PM</td>
 
