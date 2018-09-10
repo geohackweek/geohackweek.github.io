@@ -390,7 +390,25 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <tr>
 
-<td>1:00 PM - 5:00 PM</td>
+<td>1:00 PM - 2:00 PM</td>
+
+<td>Project Work</td>
+
+<td></td>
+
+</tr>
+
+<td> 2:00 PM - 3:00 PM</td>
+
+<td>Industry Panel</td>
+
+<td>Shay Strong (EagleView), Ben Hudson (Zillow), Sarah Battersby (Tableau), Andrew Pawloski (Element84)</td>
+
+</tr>
+
+<tr>
+
+<td>3:00 PM - 5:00 PM</td>
 
 <td>Project Work</td>
 
