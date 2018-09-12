@@ -92,7 +92,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 <td>1:00 PM to 2:00 PM</td>
 
 <td>
-<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
+<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a> - <a href="https://youtu.be/_vhNc1OpOg0"> video </a>
 <ul>
     <li>Jupyter Notebooks</li>
     <li>Cloud environments for tutorial</li>
@@ -157,7 +157,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>8:30 AM to 10:00 AM</td>
 
-<td><a href="https://geohackweek.github.io/vector/">Vector tools</a></td>
+<td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
 
 <td>Emilio Mayorga</td>
 
@@ -177,7 +177,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>10:30 AM to 12:00 PM</td>
 
-<td><a href="https://geohackweek.github.io/raster/">Raster tools</a></td>
+<td><a href="https://geohackweek.github.io/raster/">Raster tools</a> - <a href="https://youtu.be/PvgkplmHZ4U"> video </a></td>
 
 <td>James Douglass, David Shean</td>
 
@@ -257,7 +257,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td> 8:30 AM to 9:45 AM</td>
 
-<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> </td>
+<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> - <a href+"https://youtu.be/Vz6bimvV7tY"> video </a></td>
 
 <td> Bernease Herman and Shay Strong </td>
 
