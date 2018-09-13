@@ -257,7 +257,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td> 8:30 AM to 9:45 AM</td>
 
-<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> - <a href+"https://youtu.be/Vz6bimvV7tY"> video </a></td>
+<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> - <a href="https://youtu.be/Vz6bimvV7tY"> video </a></td>
 
 <td> Bernease Herman and Shay Strong </td>
 
@@ -277,7 +277,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td> 10:15 AM to 12:00 PM </td>
 
-<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a></td>
+<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> - ,<a href="https://youtu.be/VMJ1ZO48cwU"> video </a></td>
 
 <td>Catherine Kuhn</td>
 
@@ -407,7 +407,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>Industry Panel</td>
 
-<td>Shay Strong (EagleView), Ben Hudson (Zillow), Sarah Battersby (Tableau), Andrew Pawloski (Element84)</td>
+<td> Ben Hudson (Zillow), Sarah Battersby (Tableau), Andrew Pawloski (Element84)</td>
 
 </tr>
 
@@ -464,7 +464,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <tr>
 
-<td>10:00 - 10:15 AM</td>
+<td>10:00 - 10:30 AM</td>
 
 <td>Coffee Break</td>
 
@@ -474,7 +474,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <tr>
 
-<td>10:15 AM - 12:00 PM </td>
+<td>10:30 AM - 12:00 PM </td>
 
 <td>Best Practices in Reproducible Research</td>
 
@@ -484,7 +484,27 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <tr>
 
-<td>Afternoon</td>
+<td>12:00 PM - 1:00 PM</td>
+
+<td>Lunch</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>1:00 PM - 1:30 PM</td>
+
+<td>Geohack survey</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>1:30 PM - 3:30 PM</td>
 
 <td>Project Presentations</td>
 
