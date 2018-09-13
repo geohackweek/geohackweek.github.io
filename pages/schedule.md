@@ -357,7 +357,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>9:00 AM to 10:15 AM</td>
 
-<td><a href="https://geohackweek.github.io/visualization/">Visualization</a></td>
+<td><a href="https://geohackweek.github.io/visualization/">Visualization</a> - <a href="https://youtu.be/bkq-ND_DfYQ"> video </a></td>
 
 <td>Tony Cannistra</td>
 
@@ -377,7 +377,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>10:30 - 11:45 AM</td>
 
-<td><a href="https://github.com/geohackweek/tutorial_contents/blob/master/nDarrays/notebooks/ndarrays_intro.ipynb">nD Arrays</a></td>
+<td><a href="https://github.com/geohackweek/tutorial_contents/blob/master/nDarrays/notebooks/ndarrays_intro.ipynb">nD Arrays</a> <a href="https://youtu.be/yQ1m4rwl8No"> video </a></td>
 
 <td>Joe Hamman</td>
 
