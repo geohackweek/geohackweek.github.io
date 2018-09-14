@@ -92,7 +92,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 <td>1:00 PM to 2:00 PM</td>
 
 <td>
-<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a> - <a href="https://youtu.be/_vhNc1OpOg0"> video </a>
+<a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a> - <a href="https://youtu.be/_vhNc1OpOg0"> video </a>
 <ul>
     <li>Jupyter Notebooks</li>
     <li>Cloud environments for tutorial</li>
