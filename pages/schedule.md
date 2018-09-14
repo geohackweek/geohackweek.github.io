@@ -478,7 +478,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>10:30 AM - 12:00 PM </td>
 
-<td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a></td>
+<td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a> - <a href="https://youtu.be/fYc7gzdcN4o"> video </a></td>
 
 <td>Don Setiawan</td>
 
