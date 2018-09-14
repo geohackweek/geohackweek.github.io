@@ -476,9 +476,9 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>10:30 AM - 12:00 PM </td>
 
-<td>Best Practices in Reproducible Research</td>
+<td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a></td>
 
-<td>David Beck, Don Setiawan</td>
+<td>Don Setiawan</td>
 
 </tr>
 
