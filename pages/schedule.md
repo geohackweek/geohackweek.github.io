@@ -377,7 +377,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>10:30 - 11:45 AM</td>
 
-<td><a href="https://github.com/geohackweek/tutorial_contents/blob/master/nDarrays/notebooks/ndarrays_intro.ipynb">nD Arrays</a> <a href="https://youtu.be/yQ1m4rwl8No"> video </a></td>
+<td><a href="https://github.com/jhamman/xarray_tutorial">nD Arrays</a> <a href="https://youtu.be/yQ1m4rwl8No"> video </a></td>
 
 <td>Joe Hamman</td>
 
