@@ -1,10 +1,10 @@
 # Site settings
-title: Geohackweek 2018
-email: landungs@uw.edu
+title: Geohackweek 2019
+email: arendta@uw.edu
 description: Workshop On Geospatial Data Science <br>
              University of Washington eScience Institute <br>
-             Sept 10 - 14, 2018 <br> <br>
-             Check back soon for our 2019 event!
+             Sept 9 - 13, 2019 <br> <br>
+             Applications will be accepted soon!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -24,7 +24,7 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url: https://geohackweek2018.slack.com
+slack_url: https://geohackweek2019.slack.com
 twitter_url:
 email_url: geohack@uw.edu
 

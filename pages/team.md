@@ -51,10 +51,11 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
       github_user: dshean
 
-    - name: David Beck
-      title: Research Associate Professor
-      affiliate: eScience & ChemE
-      image_url: https://geohackweek.github.io/ghw2017/images/Beck_Outdoor_300px.jpg
+    - name: Bernease Herman
+      title: Data Scientist
+      affiliate: eScience
+      image_url: /assets/images/bernease.png
+      github_user: bernease
 
   - - name: Scott Henderson
       title: Postdoctoral Fellow
@@ -74,12 +75,7 @@ team:
       image_url: https://avatars2.githubusercontent.com/u/4108369?s=400&v=4
       github_user: ChristinaB
 
-  - - name: James Douglass
-      title: Software Lead
-      affiliate: Natural Capital Project
-      image_url: https://geohackweek.github.io/ghw2017/images/4583897.jpeg
-
-    - name: Ben Weinstein
+  - - name: Ben Weinstein
       title: Postdoctoral Fellow
       affiliate: Oregon State University
       image_url: https://geohackweek.github.io/ghw2017/images/1208492.jpeg
@@ -91,22 +87,18 @@ team:
       image_url: /assets/images/friedrich.jpg
       github_user: friedrichknuth
 
+    - name: Shay Strong 
+      title: Director of Data Science and Machine Learning
+      affiliate: <a href="https://www.eagleview.com">EagleView</a>
+      image_url: /assets/images/shay.jpg
+      github_user: shaystrong
+      
   - - name: Tony Cannistra
       title: Doctoral Student
       affiliate: eScience + Department of Biology
       image_url: https://geohackweek.github.io/ghw2017/images/Tony_c.jpg
       github_user: acannistra
 
-    - name: Bernease Herman
-      title: Data Scientist
-      affiliate: eScience
-      image_url: /assets/images/bernease.png
-      github_user: bernease
 
-    - name: Shay Strong 
-      title: Director of Data Science and Machine Learning
-      affiliate: <a href="https://www.eagleview.com">EagleView</a>
-      image_url: /assets/images/shay.jpg
-      github_user: shaystrong
     
 ---
