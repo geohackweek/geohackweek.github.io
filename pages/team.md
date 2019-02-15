@@ -51,11 +51,11 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
       github_user: dshean
 
-    - name: Bernease Herman
-      title: Data Scientist
-      affiliate: eScience
-      image_url: /assets/images/bernease.png
-      github_user: bernease
+    - name: Joachim Meyer
+      title: Graduate Student 
+      affiliate: University of Utah 
+      image_url: https://avatars2.githubusercontent.com/u/178649?s=400&v=4
+      github_user: jomey
 
   - - name: Scott Henderson
       title: Postdoctoral Fellow
