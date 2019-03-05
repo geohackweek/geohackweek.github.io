@@ -51,9 +51,9 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>9:15 - 10:30 AM</td>
 
-<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub: Part 1</a></td>
+<td><a href="https://www.missingmaps.org/">Missing Maps: digitization exercise</a></td>
 
-<td>Ben Weinstein</td>
+<td> TBD </td>
 
 </tr>
 
@@ -71,7 +71,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>11:00 AM - 12:00 AM</td>
 
-<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub: Part 2</a></td>
+<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
 
 <td>Ben Weinstein</td>
 
