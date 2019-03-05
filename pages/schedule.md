@@ -9,9 +9,11 @@ description: Schedule
 
 All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/South+Campus+Center+(SOCC)/@47.6486189,-122.3265906,14z/data=!4m5!3m4!1s0x549014ee985979b3:0x76193ba01e011bc3!8m2!3d47.6494921!4d-122.3109317">South Campus Center</a>.
 
-## Pre-event tutorial
+## Pre-event preparation
 
 Please work through this <a href ="https://geohackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of geohackweek!
+
+If you would like to brush up on your data science skills, visit this list of ou recommended <a href="https://github.com/uwescience/Online-Educational-Resources"> Online Educational Resources</a>.
 
 ## Schedule
 
@@ -73,7 +75,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
 
-<td>Ben Weinstein</td>
+<td>Ben Weinstein, Tony Cannistra</td>
 
 </tr>
 
@@ -157,9 +159,9 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>8:30 AM to 10:00 AM</td>
 
-<td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
+<td><a href="https://geohackweek.github.io/raster/">Raster tools</a> - <a href="https://youtu.be/PvgkplmHZ4U"> video </a></td>
 
-<td>Emilio Mayorga</td>
+<td>Scott Henderson, David Shean</td>
 
 </tr>
 
@@ -177,9 +179,9 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>10:30 AM to 12:00 PM</td>
 
-<td><a href="https://geohackweek.github.io/raster/">Raster tools</a> - <a href="https://youtu.be/PvgkplmHZ4U"> video </a></td>
+<td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
 
-<td>James Douglass, David Shean</td>
+<td>Emilio Mayorga</td>
 
 </tr>
 
@@ -227,7 +229,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>5:15 PM - 6:00 PM</td>
 
-<td>Presentation by <a href="https://glad.umd.edu/team/matthew-hansen">Matt Hansen</a>, Global Land Analysis and Discovery (Anderson Hall Room 223)</td>
+<td>Presentation TBD </td>
 
 <td>Everyone</td>
 
@@ -259,7 +261,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> - <a href="https://youtu.be/Vz6bimvV7tY"> video </a></td>
 
-<td> Bernease Herman and Shay Strong </td>
+<td> Shay Strong </td>
 
 </tr>
 
@@ -277,7 +279,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td> 10:15 AM to 12:00 PM </td>
 
-<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> - ,<a href="https://youtu.be/VMJ1ZO48cwU"> video </a></td>
+<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> - <a href="https://youtu.be/VMJ1ZO48cwU"> video </a></td>
 
 <td>Catherine Kuhn</td>
 
@@ -409,7 +411,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td>Industry Panel</td>
 
-<td> Ben Hudson (Zillow), Sarah Battersby (Tableau), Andrew Pawloski (Element84)</td>
+<td> TBD </td>
 
 </tr>
 
@@ -480,7 +482,7 @@ Please work through this <a href ="https://geohackweek.github.io/preliminary/">P
 
 <td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a> - <a href="https://youtu.be/fYc7gzdcN4o"> video </a></td>
 
-<td>Don Setiawan</td>
+<td>Joe Meyer</td>
 
 </tr>
 
