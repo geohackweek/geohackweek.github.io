@@ -99,6 +99,11 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/Tony_c.jpg
       github_user: acannistra
 
+    - name: Nicoleta Cristea
+      title: Research Scientist
+      affiliate: eScience & Civil and Environmental Engineering
+      image_url: /assets/images/ncristea.png
+      github_user: NCristea
 
     
 ---
