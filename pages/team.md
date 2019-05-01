@@ -105,5 +105,11 @@ team:
       image_url: /assets/images/ncristea.png
       github_user: NCristea
 
+    - name: Ariane Ducellier
+      title: Research Scientist
+      affiliate: Earth and Space Sciences, UW
+      image_url: /assets/images/ArianeDucellier.jpg
+      github_user: ArianeDucellier
+
     
 ---
