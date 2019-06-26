@@ -114,7 +114,7 @@ team:
   - - name: Victoria Ly
       title: graduate student
       affiliate: UW Dept. of Civil and Environmental Engineering
-      image_url: https://geohackweek.github.io/ghw2017/images/VictoriaLy.jpg
+      image_url: /assets/images/VictoriaLy.jpg
       github_user: victorialy
 
     
