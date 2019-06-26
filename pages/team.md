@@ -111,5 +111,11 @@ team:
       image_url: /assets/images/ArianeDucellier.jpg
       github_user: ArianeDucellier
 
+  - - name: Victoria Ly
+      title: graduate student
+      affiliate: UW Dept. of Civil and Environmental Engineering
+      image_url: https://geohackweek.github.io/ghw2017/images/VictoriaLy.jpg
+      github_user: victorialy
+
     
 ---
