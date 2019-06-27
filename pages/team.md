@@ -28,10 +28,10 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/Amanda-Tan-300x300.jpg
       github_user: cloudmaven
 
-    - name: Rachael Murray
+    - name: Jane Koh
       title: Program Specialist
       affiliate: eScience
-      image_url: /assets/images/rachael.JPG
+      image_url: /assets/images/JaneKoh.jpg
 
     - name: Emilio Mayorga
       title: Research Scientist
@@ -116,6 +116,12 @@ team:
       affiliate: UW Dept. of Civil and Environmental Engineering
       image_url: /assets/images/VictoriaLy.jpg
       github_user: victorialy
+
+    - name: Lindsey Heagy
+      title: Postdoctoral Fellow
+      affiliate: U. C. Berkeley
+      image_url: https://lindseyjh.ca/s/images/profile-image1.jpg
+      github_user: lheagy
 
     
 ---
