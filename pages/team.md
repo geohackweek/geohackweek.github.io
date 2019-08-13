@@ -39,11 +39,11 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/742403.jpg
       github_user: emiliom
 
-  - - name: Joe Hamman
-      title: Postdoctoral Researcher
-      affiliate: NCAR
-      image_url: https://geohackweek.github.io/ghw2017/images/jhamman.png
-      github_user: jhamman
+  - - name: Lindsey Heagy
+      title: Postdoctoral Fellow
+      affiliate: U. C. Berkeley
+      image_url: https://lindseyjh.ca/s/images/profile-image1.jpg
+      github_user: lheagy
 
     - name: David Shean
       title: Assistant Professor
@@ -117,11 +117,4 @@ team:
       image_url: /assets/images/VictoriaLy.jpg
       github_user: victorialy
 
-    - name: Lindsey Heagy
-      title: Postdoctoral Fellow
-      affiliate: U. C. Berkeley
-      image_url: https://lindseyjh.ca/s/images/profile-image1.jpg
-      github_user: lheagy
-
-    
 ---
