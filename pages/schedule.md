@@ -75,7 +75,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
 
-<td>Ben Weinstein, Tony Cannistra</td>
+<td>Ben Weinstein</td>
 
 </tr>
 
@@ -91,7 +91,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>1:00 PM to 2:00 PM</td>
+<td>1:00 PM to 2:30 PM</td>
 
 <td>
 <a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a> - <a href="https://youtu.be/_vhNc1OpOg0"> video </a>
@@ -101,13 +101,13 @@ If you would like to brush up on your data science skills, visit this list of ou
 </ul>
 </td>
 
-<td>Amanda Tan, Don Setiawan</td>
+<td>Don Setiawan, Joe Meyer, Lindsey Heagy </td>
 
 </tr>
 
 <tr>
 
-<td>2:00 PM - 2:30 PM</td>
+<td>2:30 PM - 3:00 PM</td>
 
 <td>Project Introductions and Pitching</td>
 
@@ -482,7 +482,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a> - <a href="https://youtu.be/fYc7gzdcN4o"> video </a></td>
 
-<td>Joe Meyer</td>
+<td>Lindsey Heagy, Joe Meyer, Don Setiawan</td>
 
 </tr>
 
