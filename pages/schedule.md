@@ -257,7 +257,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td> 8:30 AM to 9:45 AM</td>
+<td> 8:30 AM to 10:00 AM</td>
 
 <td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> - <a href="https://youtu.be/Vz6bimvV7tY"> video </a></td>
 
@@ -267,7 +267,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>9:45 to 10:15 AM</td>
+<td>10:00 to 10:30 AM</td>
 
 <td>Coffee Break</td>
 
@@ -277,11 +277,11 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr> 
 
-<td> 10:15 AM to 12:00 PM </td>
+<td> 10:30 AM to 12:00 PM </td>
 
 <td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> - <a href="https://youtu.be/VMJ1ZO48cwU"> video </a></td>
 
-<td>Catherine Kuhn</td>
+<td>Veronica Ly</td>
 
 </tr>
 
