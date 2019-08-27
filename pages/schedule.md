@@ -55,7 +55,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td><a href="https://www.missingmaps.org/">Missing Maps: digitization exercise</a></td>
 
-<td> TBD </td>
+<td> Chase Stephens, Friedrich Knuth </td>
 
 </tr>
 
@@ -89,9 +89,16 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 </tr>
 
-<tr>
+<td>1:00 PM - 1:30 PM</td>
 
-<td>1:00 PM to 2:30 PM</td>
+<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
+
+<td>Ben Weinstein</td>
+
+</tr>
+
+<tr>
+<td>1:30 PM to 3:00 PM</td>
 
 <td>
 <a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a> - <a href="https://youtu.be/_vhNc1OpOg0"> video </a>
@@ -107,7 +114,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>2:30 PM - 3:00 PM</td>
+<td>3:00 PM - 3:30 PM</td>
 
 <td>Project Introductions and Pitching</td>
 
@@ -117,7 +124,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>2:30 PM - 5:00 PM</td>
+<td>3:30 PM - 5:00 PM</td>
 
 <td>Project Work</td>
 
@@ -381,7 +388,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td><a href="https://github.com/jhamman/xarray_tutorial">nD Arrays</a> <a href="https://youtu.be/yQ1m4rwl8No"> video </a></td>
 
-<td>Joe Hamman</td>
+<td>Scott Henderson</td>
 
 </tr>
 
@@ -409,9 +416,9 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td> 2:00 PM - 3:00 PM</td>
 
-<td>Industry Panel</td>
+<td>Optional Machine Learning deep dive</td>
 
-<td> TBD </td>
+<td> Peng Zheng </td>
 
 </tr>
 
