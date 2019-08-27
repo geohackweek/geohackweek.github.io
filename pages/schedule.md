@@ -224,7 +224,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>4:30 PM - 5:15 PM</td>
+<td>4:30 PM - 5:00 PM</td>
 
 <td>Happy Hour, School of Forestry and Environmental Sciences Anderson Hall Room 207</td>
 
@@ -234,9 +234,9 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>5:15 PM - 6:00 PM</td>
+<td>5:00 PM - 6:00 PM</td>
 
-<td>Presentation TBD </td>
+<td>Presentation by Michael Goodchild </td>
 
 <td>Everyone</td>
 
