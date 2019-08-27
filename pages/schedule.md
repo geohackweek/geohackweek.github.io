@@ -236,9 +236,9 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>5:00 PM - 6:00 PM</td>
 
-<td>Presentation by Michael Goodchild </td>
+<td>Presentation</td>
 
-<td>Everyone</td>
+<td>Michael Goodchild</td>
 
 </tr>
 
