@@ -384,11 +384,11 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>10:30 - 11:45 AM</td>
+<td>10:30 AM - 12:00 PM</td>
 
-<td><a href="https://github.com/jhamman/xarray_tutorial">nD Arrays</a> <a href="https://youtu.be/yQ1m4rwl8No"> video </a></td>
+<td>Modeling and Optimization in Geosciences</td>
 
-<td>Scott Henderson</td>
+<td>Peng Zheng, Aleksandr Aravkin</td>
 
 </tr>
 
@@ -404,27 +404,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>1:00 PM - 2:00 PM</td>
-
-<td>Project Work</td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td> 2:00 PM - 3:00 PM</td>
-
-<td>Optional Machine Learning deep dive</td>
-
-<td> Peng Zheng </td>
-
-</tr>
-
-<tr>
-
-<td>3:00 PM - 5:00 PM</td>
+<td>1:00 PM - 5:00 PM</td>
 
 <td>Project Work</td>
 
