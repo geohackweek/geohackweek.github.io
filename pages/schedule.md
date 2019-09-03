@@ -288,7 +288,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> - <a href="https://youtu.be/VMJ1ZO48cwU"> video </a></td>
 
-<td>Veronica Ly</td>
+<td>Victoria Ly</td>
 
 </tr>
 
