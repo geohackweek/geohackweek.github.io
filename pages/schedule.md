@@ -216,7 +216,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>1:30 PM - 4:30 PM</td>
 
-<td>Project Work</td>
+<td>Project Work (Coffee available at 3:00 PM) </td>
 
 <td>Everyone</td>
 
@@ -316,7 +316,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>1:15 PM - 4:30 PM</td>
 
-<td>Project Work</td>
+<td>Project Work (Coffee available at 3:00 PM) </td>
 
 <td>Everyone</td>
 
@@ -406,7 +406,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>1:00 PM - 5:00 PM</td>
 
-<td>Project Work</td>
+<td>Project Work (Coffee available at 3:00 PM) </td>
 
 <td></td>
 
@@ -495,7 +495,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>1:30 PM - 3:30 PM</td>
+<td>1:30 PM - 4:30 PM</td>
 
 <td>Project Presentations</td>
 
