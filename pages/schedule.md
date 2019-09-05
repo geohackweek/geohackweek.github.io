@@ -89,6 +89,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 </tr>
 
+<tr>
+
 <td>1:00 PM - 1:30 PM</td>
 
 <td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
