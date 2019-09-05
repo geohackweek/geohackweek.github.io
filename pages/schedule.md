@@ -101,7 +101,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 <td>1:30 PM to 3:00 PM</td>
 
 <td>
-<a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a> - <a href="https://youtu.be/_vhNc1OpOg0"> video </a>
+<a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a> 
 <ul>
     <li>Jupyter Notebooks</li>
     <li>Cloud environments for tutorial</li>
@@ -166,7 +166,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>8:30 AM to 10:00 AM</td>
 
-<td><a href="https://geohackweek.github.io/raster/">Raster tools</a> - <a href="https://youtu.be/PvgkplmHZ4U"> video </a></td>
+<td><a href="https://geohackweek.github.io/raster/">Raster tools</a> </td>
 
 <td>Scott Henderson, David Shean</td>
 
@@ -186,7 +186,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>10:30 AM to 12:00 PM</td>
 
-<td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
+<td><a href="https://geohackweek.github.io/vector/">Vector tools</a> </td>
 
 <td>Emilio Mayorga</td>
 
@@ -214,19 +214,9 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 
-<td>1:30 PM - 4:30 PM</td>
+<td>1:30 PM - 5:00 PM</td>
 
 <td>Project Work (Coffee available at 3:00 PM) </td>
-
-<td>Everyone</td>
-
-</tr>
-
-<tr>
-
-<td>4:30 PM - 5:00 PM</td>
-
-<td>Happy Hour, School of Forestry and Environmental Sciences Anderson Hall Room 207</td>
 
 <td>Everyone</td>
 
@@ -238,7 +228,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>Presentation</td>
 
-<td>Michael Goodchild</td>
+<td>Dr. Michael Goodchild</td>
 
 </tr>
 
@@ -266,7 +256,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td> 8:30 AM to 10:00 AM</td>
 
-<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> - <a href="https://youtu.be/Vz6bimvV7tY"> video </a></td>
+<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> </td>
 
 <td> Shay Strong </td>
 
@@ -286,7 +276,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td> 10:30 AM to 12:00 PM </td>
 
-<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> - <a href="https://youtu.be/VMJ1ZO48cwU"> video </a></td>
+<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> </td>
 
 <td>Victoria Ly</td>
 
@@ -366,7 +356,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>9:00 AM to 10:15 AM</td>
 
-<td><a href="https://geohackweek.github.io/visualization/">Visualization</a> - <a href="https://youtu.be/bkq-ND_DfYQ"> video </a></td>
+<td><a href="https://geohackweek.github.io/visualization/">Visualization</a> </td>
 
 <td>Tony Cannistra</td>
 
@@ -467,7 +457,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>10:30 AM - 12:00 PM </td>
 
-<td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a> - <a href="https://youtu.be/fYc7gzdcN4o"> video </a></td>
+<td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a> </td>
 
 <td>Lindsey Heagy, Joe Meyer, Don Setiawan</td>
 
