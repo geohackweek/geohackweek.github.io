@@ -9,6 +9,10 @@ description: Schedule
 
 All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/South+Campus+Center+(SOCC)/@47.6486189,-122.3265906,14z/data=!4m5!3m4!1s0x549014ee985979b3:0x76193ba01e011bc3!8m2!3d47.6494921!4d-122.3109317">South Campus Center</a>.
 
+## Live Stream
+
+We will be live streaming video of our morning tutorials <a href="https://washington.zoom.us/j/336998504">here</a>.
+
 ## Pre-event preparation
 
 Please work through this <a href ="https://geohackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of geohackweek!
