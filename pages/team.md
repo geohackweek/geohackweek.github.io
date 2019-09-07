@@ -63,12 +63,12 @@ team:
       image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
       github_user: scottyhq
 
-    - name: Catherine Kuhn
-      title: Doctoral Student
-      affiliate: School of Forest & Environmental Sciences
-      image_url: https://geohackweek.github.io/ghw2017/images/Catherine.jpeg
-      github_user: catherinekuhn
-
+    - name: Victoria Ly
+      title: graduate student
+      affiliate: UW Dept. of Civil and Environmental Engineering
+      image_url: /assets/images/VictoriaLy.jpg
+      github_user: victorialy
+      
     - name: Christina Bandaragoda
       title: Research Scientist
       affiliate: Civil and Environmental Engineering
@@ -110,11 +110,5 @@ team:
       affiliate: Earth and Space Sciences, UW
       image_url: /assets/images/ArianeDucellier.jpg
       github_user: ArianeDucellier
-
-  - - name: Victoria Ly
-      title: graduate student
-      affiliate: UW Dept. of Civil and Environmental Engineering
-      image_url: /assets/images/VictoriaLy.jpg
-      github_user: victorialy
 
 ---
