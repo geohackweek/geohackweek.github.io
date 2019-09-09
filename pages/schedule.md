@@ -107,7 +107,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 <td>1:30 PM to 3:00 PM</td>
 
 <td>
-<a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a> 
+<a href="https://github.com/geohackweek/datasharing/blob/master/README.md">Data Sharing and Collaboration Tools</a> 
 <ul>
     <li>Jupyter Notebooks</li>
     <li>Cloud environments for tutorial</li>
