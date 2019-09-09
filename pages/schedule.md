@@ -364,7 +364,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td><a href="https://geohackweek.github.io/visualization/">Visualization</a> </td>
 
-<td>Tony Cannistra</td>
+<td>Ariane Ducellier</td>
 
 </tr>
 
