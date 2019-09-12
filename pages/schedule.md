@@ -382,7 +382,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>10:30 AM - 12:00 PM</td>
 
-<td>Modeling and Optimization in Geosciences</td>
+<td><a href="https://github.com/UW-AMO/Workshop_Material">Modeling and Optimization in Geosciences</a></td>
 
 <td>Peng Zheng, Aleksandr Aravkin</td>
 
