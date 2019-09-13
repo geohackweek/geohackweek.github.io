@@ -172,7 +172,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <td>8:30 AM to 10:00 AM</td>
 
-<td><a href="https://geohackweek.github.io/raster/">Raster tools</a> </td>
+<td><a href="https://github.com/geohackweek/raster-2019">Raster tools</a> </td>
 
 <td>Scott Henderson, David Shean</td>
 
